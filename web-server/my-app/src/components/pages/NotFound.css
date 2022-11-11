@@ -1,0 +1,46 @@
+.container_notfound {
+    display: table;
+    justify-content: center;
+    align-items: center;
+    padding: 0 30px;
+    height: 800px;
+    position: sticky;
+    z-index: 1;
+
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.content_notfound {
+    z-index: 3;
+    max-width: 1200px;
+    position: sticky;
+    padding: 100px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.H1_notfound {
+    margin-top: 4rem;
+    color: rgb(0, 0, 0);
+    font-size: 48px;
+    text-align: center;
+    line-height: 50px;
+}
+
+.P_notfound {
+    margin-top: 1rem;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    text-align: center;
+    max-width: 600px;
+    
+    line-height: 40px;
+
+    /* margin-top: auto;
+    margin-bottom: auto; */
+}

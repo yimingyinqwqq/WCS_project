@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@antv/graphin": "^2.6.5",
+    "@antv/graphin-components": "^2.4.0",
+    "@antv/graphin-icons": "^1.0.0",
+    "@antv/layout": "^0.2.2",
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/react-fontawesome": "^0.1.18",
+    "antv": "^0.2.2",
+    "lodash-es": "^4.17.21",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "semantic-ui-react": "^2.1.2",
+    "start": "^5.1.0",
+    "types": "^0.1.1"
+  }
+}

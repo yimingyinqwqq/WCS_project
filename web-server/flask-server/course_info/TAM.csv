@@ -1,0 +1,108 @@
+,Course,Name,CRN,Type,Section,Time,Day,Location,Instructor
+0,TAM199,Undergraduate Open Seminar,10204,Independent Study,,ARRANGED,n.a.,n.a.,
+1,TAM210,Introduction to Statics,36206,Discussion/ Recitation,AD2,09:00AM - 09:50AM,T,0023 Sidney Lu Mech Engr Bldg,"Willhardt, C"
+2,TAM210,Introduction to Statics,36207,Discussion/ Recitation,AD3,10:00AM - 10:50AM,T,0023 Sidney Lu Mech Engr Bldg,"Willhardt, C"
+3,TAM210,Introduction to Statics,36208,Discussion/ Recitation,AD4,11:00AM - 11:50AM,T,0023 Sidney Lu Mech Engr Bldg,"Willhardt, C"
+4,TAM210,Introduction to Statics,36209,Discussion/ Recitation,AD5,12:00PM - 12:50PM,T,0023 Sidney Lu Mech Engr Bldg,"Willhardt, C"
+5,TAM210,Introduction to Statics,36210,Discussion/ Recitation,AD6,01:00PM - 01:50PM,T,0023 Sidney Lu Mech Engr Bldg,"Celebi, O"
+6,TAM210,Introduction to Statics,36211,Discussion/ Recitation,AD7,01:00PM - 01:50PM,W,0023 Sidney Lu Mech Engr Bldg,"Celebi, O"
+7,TAM210,Introduction to Statics,38775,Discussion/ Recitation,AD8,02:00PM - 02:50PM,W,0023 Sidney Lu Mech Engr Bldg,"Qian, B"
+8,TAM210,Introduction to Statics,58234,Discussion/ Recitation,AD9,03:00PM - 03:50PM,W,0023 Sidney Lu Mech Engr Bldg,"Qian, B"
+9,TAM210,Introduction to Statics,63234,Discussion/ Recitation,ADA,04:00PM - 04:50PM,W,0023 Sidney Lu Mech Engr Bldg,"Ran, J"
+10,TAM210,Introduction to Statics,36212,Lecture-Discussion,AE1,11:00AM - 11:50AM,MWF,112 Gregory Hall,"Chang, W"
+11,TAM211,Statics,36214,Discussion/ Recitation,AD2,09:00AM - 09:50AM,T,0023 Sidney Lu Mech Engr Bldg,"Willhardt, C"
+12,TAM211,Statics,36215,Discussion/ Recitation,AD3,10:00AM - 10:50AM,T,0023 Sidney Lu Mech Engr Bldg,"Willhardt, C"
+13,TAM211,Statics,36216,Discussion/ Recitation,AD4,11:00AM - 11:50AM,T,0023 Sidney Lu Mech Engr Bldg,"Willhardt, C"
+14,TAM211,Statics,36217,Discussion/ Recitation,AD5,12:00PM - 12:50PM,T,0023 Sidney Lu Mech Engr Bldg,"Willhardt, C"
+15,TAM211,Statics,36218,Discussion/ Recitation,AD6,01:00PM - 01:50PM,T,0023 Sidney Lu Mech Engr Bldg,"Celebi, O"
+16,TAM211,Statics,36219,Discussion/ Recitation,AD7,01:00PM - 01:50PM,W,0023 Sidney Lu Mech Engr Bldg,"Celebi, O"
+17,TAM211,Statics,38776,Discussion/ Recitation,AD8,02:00PM - 02:50PM,W,0023 Sidney Lu Mech Engr Bldg,"Qian, B"
+18,TAM211,Statics,58237,Discussion/ Recitation,AD9,03:00PM - 03:50PM,W,0023 Sidney Lu Mech Engr Bldg,"Qian, B"
+19,TAM211,Statics,63237,Discussion/ Recitation,ADA,04:00PM - 04:50PM,W,0023 Sidney Lu Mech Engr Bldg,"Ran, J"
+20,TAM211,Statics,36220,Lecture-Discussion,AE1,11:00AM - 11:50AM,MWF,112 Gregory Hall,"Chang, W"
+21,TAM212,Introductory Dynamics,36229,Discussion/ Recitation,ADB,09:00AM - 09:50AM,W,0023 Sidney Lu Mech Engr Bldg,"Williams, C"
+22,TAM212,Introductory Dynamics,36230,Discussion/ Recitation,ADC,10:00AM - 10:50AM,W,0023 Sidney Lu Mech Engr Bldg,"Taghibakhshi, A"
+23,TAM212,Introductory Dynamics,36231,Discussion/ Recitation,ADD,11:00AM - 11:50AM,W,0023 Sidney Lu Mech Engr Bldg,"Taghibakhshi, A"
+24,TAM212,Introductory Dynamics,36232,Discussion/ Recitation,ADE,12:00PM - 12:50PM,W,0023 Sidney Lu Mech Engr Bldg,
+25,TAM212,Introductory Dynamics,36233,Discussion/ Recitation,ADF,12:00PM - 12:50PM,R,0023 Sidney Lu Mech Engr Bldg,"Tseng, K"
+26,TAM212,Introductory Dynamics,36234,Discussion/ Recitation,ADG,01:00PM - 01:50PM,R,0023 Sidney Lu Mech Engr Bldg,
+27,TAM212,Introductory Dynamics,36235,Discussion/ Recitation,ADH,02:00PM - 02:50PM,R,0023 Sidney Lu Mech Engr Bldg,"Darir, H"
+28,TAM212,Introductory Dynamics,36237,Discussion/ Recitation,ADJ,03:00PM - 03:50PM,R,0023 Sidney Lu Mech Engr Bldg,"Keivan Esfahani, D"
+29,TAM212,Introductory Dynamics,36238,Discussion/ Recitation,ADK,04:00PM - 04:50PM,R,0023 Sidney Lu Mech Engr Bldg,"Darir, H"
+30,TAM212,Introductory Dynamics,36239,Discussion/ Recitation,ADL,05:00PM - 05:50PM,R,0023 Sidney Lu Mech Engr Bldg,
+31,TAM212,Introductory Dynamics,41522,Discussion/ Recitation,ADN,10:00AM - 10:50AM,F,0023 Sidney Lu Mech Engr Bldg,"Mao, Y"
+32,TAM212,Introductory Dynamics,51729,Discussion/ Recitation,ADO,11:00AM - 11:50AM,F,0023 Sidney Lu Mech Engr Bldg,"Mao, Y"
+33,TAM212,Introductory Dynamics,59379,Discussion/ Recitation,ADP,12:00PM - 12:50PM,F,0023 Sidney Lu Mech Engr Bldg,"Mao, Y"
+34,TAM212,Introductory Dynamics,59381,Discussion/ Recitation,ADQ,01:00PM - 01:50PM,F,0023 Sidney Lu Mech Engr Bldg,"Mao, Y"
+35,TAM212,Introductory Dynamics,59382,Discussion/ Recitation,ADR,02:00PM - 02:50PM,F,0023 Sidney Lu Mech Engr Bldg,"Keivan Esfahani, D"
+36,TAM212,Introductory Dynamics,36226,Lecture-Discussion,AE1,02:00PM - 02:50PM,MWF,100 Materials Science & Eng Bld,"Ertekin, E"
+37,TAM212,Introductory Dynamics,36227,Lecture-Discussion,AE2,03:00PM - 03:50PM,MWF,100 Materials Science & Eng Bld,"West, M"
+38,TAM251,Introductory Solid Mechanics,36242,Discussion/ Recitation,AD1,12:00PM - 12:50PM,M,0023 Sidney Lu Mech Engr Bldg,"Amiri Hezaveh, A"
+39,TAM251,Introductory Solid Mechanics,36243,Discussion/ Recitation,AD2,01:00PM - 01:50PM,M,0023 Sidney Lu Mech Engr Bldg,
+40,TAM251,Introductory Solid Mechanics,36244,Discussion/ Recitation,AD3,02:00PM - 02:50PM,M,0023 Sidney Lu Mech Engr Bldg,
+41,TAM251,Introductory Solid Mechanics,36245,Discussion/ Recitation,AD4,03:00PM - 03:50PM,M,0023 Sidney Lu Mech Engr Bldg,
+42,TAM251,Introductory Solid Mechanics,36246,Discussion/ Recitation,AD5,04:00PM - 04:50PM,M,0023 Sidney Lu Mech Engr Bldg,"Lee, J"
+43,TAM251,Introductory Solid Mechanics,36247,Discussion/ Recitation,AD6,05:00PM - 05:50PM,M,0023 Sidney Lu Mech Engr Bldg,
+44,TAM251,Introductory Solid Mechanics,36248,Discussion/ Recitation,AD7,02:00PM - 02:50PM,T,0023 Sidney Lu Mech Engr Bldg,
+45,TAM251,Introductory Solid Mechanics,36249,Discussion/ Recitation,AD8,03:00PM - 03:50PM,T,0023 Sidney Lu Mech Engr Bldg,"Amiri Hezaveh, A"
+46,TAM251,Introductory Solid Mechanics,36250,Discussion/ Recitation,AD9,04:00PM - 04:50PM,T,0023 Sidney Lu Mech Engr Bldg,"Amiri Hezaveh, A"
+47,TAM251,Introductory Solid Mechanics,51747,Discussion/ Recitation,ADC,09:00AM - 09:50AM,R,0023 Sidney Lu Mech Engr Bldg,"Spitzer, A"
+48,TAM251,Introductory Solid Mechanics,59529,Discussion/ Recitation,ADD,10:00AM - 10:50AM,R,0023 Sidney Lu Mech Engr Bldg,"Spitzer, A"
+49,TAM251,Introductory Solid Mechanics,63233,Discussion/ Recitation,ADE,11:00AM - 11:50AM,R,0023 Sidney Lu Mech Engr Bldg,
+50,TAM251,Introductory Solid Mechanics,36240,Lecture,AL1,09:00AM - 09:50AM,MWF,1320 Digital Computer Laboratory,"Mercer, B"
+51,TAM251,Introductory Solid Mechanics,36241,Lecture,AL2,10:00AM - 10:50AM,MWF,1320 Digital Computer Laboratory,"Mercer, B"
+52,TAM252,Solid Mechanics Design,36251,Lecture-Discussion,B,09:00AM - 09:50AM,R,2045 Sidney Lu Mech Engr Bldg,"Johnson, B"
+53,TAM270,Design for Manufacturability,68580,Laboratory,AB1,01:00PM - 02:50PM,M,0023B Sidney Lu Mech Engr Bldg,
+54,TAM270,Design for Manufacturability,68581,Laboratory,AB2,03:00PM - 04:50PM,M,0023B Sidney Lu Mech Engr Bldg,
+55,TAM270,Design for Manufacturability,68583,Laboratory,AB3,11:00AM - 12:50PM,T,0023B Sidney Lu Mech Engr Bldg,
+56,TAM270,Design for Manufacturability,68584,Laboratory,AB4,01:00PM - 02:50PM,T,0023B Sidney Lu Mech Engr Bldg,
+57,TAM270,Design for Manufacturability,68585,Laboratory,AB5,05:00PM - 06:50PM,T,0023B Sidney Lu Mech Engr Bldg,
+58,TAM270,Design for Manufacturability,68587,Laboratory,AB6,12:00PM - 01:50PM,W,0023B Sidney Lu Mech Engr Bldg,
+59,TAM270,Design for Manufacturability,68588,Laboratory,AB7,02:00PM - 03:50PM,W,0023B Sidney Lu Mech Engr Bldg,
+60,TAM270,Design for Manufacturability,68589,Laboratory,AB8,04:00PM - 05:50PM,W,0023B Sidney Lu Mech Engr Bldg,
+61,TAM270,Design for Manufacturability,68591,Laboratory,ABA,10:00AM - 11:50AM,R,0023B Sidney Lu Mech Engr Bldg,
+62,TAM270,Design for Manufacturability,68592,Laboratory,ABB,12:00PM - 01:50PM,R,0023B Sidney Lu Mech Engr Bldg,
+63,TAM270,Design for Manufacturability,68586,Laboratory,ABC,05:00PM - 06:50PM,R,0023B Sidney Lu Mech Engr Bldg,
+64,TAM270,Design for Manufacturability,68578,Lecture,AL1,03:00PM - 03:50PM,TR,100 Materials Science & Eng Bld,"Flachsbart, B"
+65,TAM297,Introductory Independent Study,68057,Independent Study,,ARRANGED,n.a.,n.a.,
+66,TAM324,Behavior of Materials,36252,Laboratory,AB1,10:00AM - 11:50AM,M,201 Talbot Laboratory,
+67,TAM324,Behavior of Materials,36253,Laboratory,AB2,02:00PM - 03:50PM,M,201 Talbot Laboratory,
+68,TAM324,Behavior of Materials,36254,Laboratory,AB3,10:00AM - 11:50AM,W,201 Talbot Laboratory,
+69,TAM324,Behavior of Materials,36255,Laboratory,AB4,12:00PM - 01:50PM,R,201 Talbot Laboratory,
+70,TAM324,Behavior of Materials,39838,Laboratory,AB5,08:00AM - 09:50AM,F,201 Talbot Laboratory,
+71,TAM324,Behavior of Materials,53045,Laboratory,AB6,05:00PM - 06:50PM,W,201 Talbot Laboratory,
+72,TAM324,Behavior of Materials,54750,Laboratory,AB7,12:00PM - 01:50PM,T,201 Talbot Laboratory,
+73,TAM324,Behavior of Materials,36256,Lecture-Discussion,AE1,01:00PM - 01:50PM,MWF,1310 Newmark Civil Engineering Bldg,"Popovics, J"
+74,TAM324,Behavior of Materials,73835,Online,ZJO,ARRANGED,n.a.,n.a.,"Popovics, J"
+75,TAM335,Introductory Fluid Mechanics,36262,Laboratory,AB1,01:00PM - 02:50PM,M,126 Talbot Laboratory,"Hong, L"
+76,TAM335,Introductory Fluid Mechanics,36263,Laboratory,AB2,03:00PM - 04:50PM,M,126 Talbot Laboratory,"Hong, L"
+77,TAM335,Introductory Fluid Mechanics,36264,Laboratory,AB3,08:00AM - 09:50AM,T,126 Talbot Laboratory,"Krishnan, G"
+78,TAM335,Introductory Fluid Mechanics,36265,Laboratory,AB4,10:00AM - 11:50AM,T,126 Talbot Laboratory,"Krishnan, G"
+79,TAM335,Introductory Fluid Mechanics,36266,Laboratory,AB5,01:00PM - 02:50PM,T,126 Talbot Laboratory,
+80,TAM335,Introductory Fluid Mechanics,45456,Laboratory,AB6,03:00PM - 04:50PM,T,126 Talbot Laboratory,"Hong, L"
+81,TAM335,Introductory Fluid Mechanics,52256,Laboratory,AB7,03:00PM - 04:50PM,W,126 Talbot Laboratory,
+82,TAM335,Introductory Fluid Mechanics,53796,Laboratory,AB8,10:00AM - 11:50AM,R,126 Talbot Laboratory,
+83,TAM335,Introductory Fluid Mechanics,54169,Laboratory,ABA,01:00PM - 02:50PM,R,126 Talbot Laboratory,"Haider, S"
+84,TAM335,Introductory Fluid Mechanics,54170,Laboratory,ABB,10:00AM - 11:50AM,W,126 Talbot Laboratory,
+85,TAM335,Introductory Fluid Mechanics,54171,Laboratory,ABC,01:00PM - 02:50PM,W,Location Pending,"Kumar, V"
+86,TAM335,Introductory Fluid Mechanics,73586,Laboratory,ABD,08:00AM - 09:50AM,R,Location Pending,"Krishnan, G"
+87,TAM335,Introductory Fluid Mechanics,36267,Lecture-Discussion,AE1,09:00AM - 09:50AM,MWF,2100 Sidney Lu Mech Engr Bldg,"Feng, J"
+88,TAM335,Introductory Fluid Mechanics,67662,Lecture-Discussion,AE2,11:00AM - 11:50AM,MWF,2310 Everitt Laboratory,"Tang, K"
+89,TAM335,Introductory Fluid Mechanics,41894,Lecture-Discussion,ZJ1,09:00AM - 09:50AM,MWF,2100 Sidney Lu Mech Engr Bldg,"Feng, J"
+90,TAM335,Introductory Fluid Mechanics,73196,Lecture-Discussion,ZJ2,11:00AM - 11:50AM,MWF,2310 Everitt Laboratory,"Tang, K"
+91,TAM412,Intermediate Dynamics,36269,Lecture-Discussion,C,03:00PM - 04:50PM,MW,3100 Sidney Lu Mech Engr Bldg,"Kanj, A & Matlack, K"
+92,TAM445,Continuum Mechanics,36374,Lecture-Discussion,C,11:00AM - 12:50PM,TR,3100 Sidney Lu Mech Engr Bldg,"Admal, N & Ahmed, T"
+93,TAM456,Experimental Stress Analysis,36333,Laboratory-Discussion,E,01:00PM - 02:50PM,TR,2045 Sidney Lu Mech Engr Bldg,"Hutchens, S & Zhan, S"
+94,TAM497,Independent Study,10211,Independent Study,,ARRANGED,n.a.,n.a.,
+95,TAM500,Seminar,36380,Lecture,T,03:00PM - 04:50PM,TR,2035 Campus Instructional Facility,"Smith, K & Sofronis, P"
+96,TAM516,Dynamical Systems Theory,69464,Lecture-Discussion,A,02:00PM - 03:20PM,MW,112 Transportation Building,"Eggl, S"
+97,TAM532,Viscous Flow,36387,Lecture-Discussion,C,10:00AM - 11:50AM,MW,2051 Sidney Lu Mech Engr Bldg,"Chamorro Chavez, L"
+98,TAM536,Instability and Transition,36392,Lecture-Discussion,E,01:00PM - 02:50PM,TR,2051 Sidney Lu Mech Engr Bldg,"Pearlstein, A"
+99,TAM539,Fluid Mechanics Seminar,36399,Conference,C,12:00PM - 01:20PM,F,1043 Sidney Lu Mech Engr Bldg,"Chamorro Chavez, L"
+100,TAM542,Mathematical Methods II,36402,Lecture-Discussion,E,04:00PM - 05:50PM,MW,1043 Sidney Lu Mech Engr Bldg,"Kim, J & Ko, J & Mehta, P"
+101,TAM552,Solid Mechanics II,36406,Lecture-Discussion,C,10:00AM - 11:50AM,TR,162 Noyes Laboratory,"Sofronis, P & Vijayvargia, K"
+102,TAM557,Mechanics of Random Media,63297,Lecture-Discussion,MRM,03:30PM - 05:20PM,TR,1047 Sidney Lu Mech Engr Bldg,"Starzewski, M"
+103,TAM561,Mechanics and Thermodynamics of Soft Matter and Biological Materials,72727,Lecture-Discussion,G4,01:00PM - 02:50PM,TR,1047 Sidney Lu Mech Engr Bldg,"Hilgenfeldt, S"
+104,TAM597,Advanced Independent Study,10215,Independent Study,,ARRANGED,n.a.,n.a.,
+105,TAM597,Advanced Independent Study,73795,Independent Study,HTJ,01:00PM - 01:50PM,n.a.,n.a.,"Johnson, H"
+106,TAM599,Thesis Research,10220,Independent Study,,ARRANGED,n.a.,n.a.,

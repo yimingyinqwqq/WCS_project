@@ -1,0 +1,50 @@
+/* table {
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+  
+table td,
+table th {
+  height: 50px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  font-size: 20px;
+}
+
+table tr {
+  background-color: #f2f2f2;
+}
+
+table tr:hover {
+  background-color: #ddd;
+} */
+table td,
+table th {
+  text-align: center;
+
+}
+table th, tfoot td {
+  padding-top: 6px;
+  padding-bottom: 6px;
+  text-align: center;
+  background-color: rgb(247, 182, 182);
+  color: white;
+}
+table {
+  width: 100%;
+  font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif;
+}
+
+thead, tbody, tr {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+}
+
+tbody {
+  display: block;
+  overflow: auto;
+  table-layout: fixed;
+  max-height: 250px;
+}

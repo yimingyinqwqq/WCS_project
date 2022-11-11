@@ -1,0 +1,68 @@
+body {
+  /* margin-top: 200px; */
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.bar{
+  position: absolute;
+  left: 220px;
+  top: 200px;
+  width : 500px;
+  
+}
+.background{
+  background-image: url(../src/components/uiuc.jpeg);
+  background-blend-mode: overlay; 
+  background-color: rgba(255, 255, 255, 0.867);
+  height: 1000px;
+  
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+nav a.active{
+  border-bottom: 5px solid #333;
+  transition: all ease 0.5s;
+}
+.center{
+  font-size: 45px;
+  text-align: center;
+  right: 0;
+  left: 0;
+  /* margin-top: 200px; */
+  margin-right: auto;
+  margin-left: auto;
+  width: 70%;
+}
+
+.left {
+  position: relative;
+  /* margin-top: 200px; */
+  left: 0px;
+  width: 90%;
+  border: 1px solid #110202;
+  padding: 10px;
+}
+
+.subtext{
+  /* margin-top: 200px; */
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+.subtitle{
+  /* margin-top: 200px; */
+
+  font-size: 20px;
+  
+  font-weight: bold;
+}
+.intext{
+  /* margin-top: 200px; */
+
+  font-size: 20px;
+
+  color:rgba(20, 3, 3, 0.686)
+}

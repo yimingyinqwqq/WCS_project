@@ -1,0 +1,363 @@
+,Course,Name,CRN,Type,Section,Time,Day,Location,Instructor
+0,ECE101,Exploring Digital Info Technol,39895,Laboratory,ABB,10:00AM - 11:50AM,F,2025 Campus Instructional Facility,
+1,ECE101,Exploring Digital Info Technol,39374,Lecture,AL,11:00AM - 11:50AM,MW,3081 Electrical & Computer Eng Bldg,"Lumetta, S & Roy Choudhury, R"
+2,ECE110,Introduction to Electronics,32463,Laboratory,AB0,09:00AM - 11:50AM,T,1001 Electrical & Computer Eng Bldg,
+3,ECE110,Introduction to Electronics,73480,Online Lab,AB1,09:00AM - 11:50AM,T,n.a.,
+4,ECE110,Introduction to Electronics,32460,Laboratory,AB2,09:00AM - 11:50AM,R,1001 Electrical & Computer Eng Bldg,
+5,ECE110,Introduction to Electronics,52912,Laboratory,AB3,09:00AM - 11:50AM,F,1001 Electrical & Computer Eng Bldg,
+6,ECE110,Introduction to Electronics,32470,Laboratory,AB4,12:00PM - 02:50PM,M,1001 Electrical & Computer Eng Bldg,
+7,ECE110,Introduction to Electronics,52914,Laboratory,AB5,12:00PM - 02:50PM,T,1001 Electrical & Computer Eng Bldg,
+8,ECE110,Introduction to Electronics,52910,Laboratory,AB6,12:00PM - 02:50PM,W,1001 Electrical & Computer Eng Bldg,
+9,ECE110,Introduction to Electronics,32466,Laboratory,AB7,12:00PM - 02:50PM,R,1001 Electrical & Computer Eng Bldg,
+10,ECE110,Introduction to Electronics,32461,Laboratory,AB8,12:00PM - 02:50PM,F,1001 Electrical & Computer Eng Bldg,
+11,ECE110,Introduction to Electronics,52913,Laboratory,AB9,03:00PM - 05:50PM,M,1001 Electrical & Computer Eng Bldg,
+12,ECE110,Introduction to Electronics,32456,Laboratory,ABA,03:00PM - 05:50PM,T,1001 Electrical & Computer Eng Bldg,
+13,ECE110,Introduction to Electronics,52911,Laboratory,ABB,03:00PM - 05:50PM,W,1001 Electrical & Computer Eng Bldg,
+14,ECE110,Introduction to Electronics,32467,Laboratory,ABC,03:00PM - 05:50PM,R,1001 Electrical & Computer Eng Bldg,
+15,ECE110,Introduction to Electronics,73481,Online Lab,ABD,09:00AM - 11:50AM,R,n.a.,
+16,ECE110,Introduction to Electronics,32469,Laboratory,ABE,06:00PM - 08:50PM,M,1001 Electrical & Computer Eng Bldg,
+17,ECE110,Introduction to Electronics,63640,Laboratory,ABF,06:00PM - 08:50PM,W,1001 Electrical & Computer Eng Bldg,
+18,ECE110,Introduction to Electronics,73482,Online Lab,ABG,09:00AM - 11:50AM,F,n.a.,
+19,ECE110,Introduction to Electronics,73483,Online Lab,ABH,12:00PM - 02:50PM,M,n.a.,
+20,ECE110,Introduction to Electronics,73484,Online Lab,ABI,12:00PM - 02:50PM,T,n.a.,
+21,ECE110,Introduction to Electronics,73485,Online Lab,ABJ,12:00PM - 02:50PM,W,n.a.,
+22,ECE110,Introduction to Electronics,32459,Laboratory,ABK,09:00AM - 11:50AM,T,1005 Electrical & Computer Eng Bldg,
+23,ECE110,Introduction to Electronics,57704,Laboratory,ABL,09:00AM - 11:50AM,R,1005 Electrical & Computer Eng Bldg,
+24,ECE110,Introduction to Electronics,57730,Laboratory,ABM,09:00AM - 11:50AM,F,1005 Electrical & Computer Eng Bldg,
+25,ECE110,Introduction to Electronics,32468,Laboratory,ABN,12:00PM - 02:50PM,M,1005 Electrical & Computer Eng Bldg,
+26,ECE110,Introduction to Electronics,66369,Laboratory,ABO,12:00PM - 02:50PM,T,1005 Electrical & Computer Eng Bldg,
+27,ECE110,Introduction to Electronics,66370,Laboratory,ABP,12:00PM - 02:50PM,W,1005 Electrical & Computer Eng Bldg,
+28,ECE110,Introduction to Electronics,73618,Laboratory,ABQ,12:00PM - 02:50PM,R,1005 Electrical & Computer Eng Bldg,
+29,ECE110,Introduction to Electronics,73620,Laboratory,ABR,12:00PM - 02:50PM,F,1005 Electrical & Computer Eng Bldg,
+30,ECE110,Introduction to Electronics,73621,Laboratory,ABS,03:00PM - 05:50PM,M,1005 Electrical & Computer Eng Bldg,
+31,ECE110,Introduction to Electronics,73622,Laboratory,ABT,03:00PM - 05:50PM,T,1005 Electrical & Computer Eng Bldg,
+32,ECE110,Introduction to Electronics,73623,Laboratory,ABU,03:00PM - 05:50PM,W,1005 Electrical & Computer Eng Bldg,
+33,ECE110,Introduction to Electronics,73624,Laboratory,ABV,03:00PM - 05:50PM,R,1005 Electrical & Computer Eng Bldg,
+34,ECE110,Introduction to Electronics,73625,Laboratory,ABW,06:00PM - 08:50PM,M,1005 Electrical & Computer Eng Bldg,
+35,ECE110,Introduction to Electronics,73626,Laboratory,ABX,06:00PM - 08:50PM,W,1005 Electrical & Computer Eng Bldg,
+36,ECE110,Introduction to Electronics,32464,Lecture,AL1,11:00AM - 11:50AM,MW,3013 Electrical & Computer Eng Bldg,"Choi, H & Schmitz, C"
+37,ECE110,Introduction to Electronics,32471,Lecture,AL2,10:00AM - 10:50AM,MW,1002 Electrical & Computer Eng Bldg,"Schmitz, C & Schuh, J"
+38,ECE110,Introduction to Electronics,52909,Online Lecture,AL3,02:00PM - 02:50PM,MW,n.a.,"Gilbert, M & Schmitz, C"
+39,ECE110,Introduction to Electronics,61723,Lecture,AL4,03:00PM - 03:50PM,MW,1002 Electrical & Computer Eng Bldg,"Schmitz, C & Zhao, Y"
+40,ECE120,Introduction to Computing,61612,Discussion/ Recitation,AB1,09:00AM - 09:50AM,R,1013 Electrical & Computer Eng Bldg,
+41,ECE120,Introduction to Computing,61615,Discussion/ Recitation,AB2,10:00AM - 10:50AM,R,1013 Electrical & Computer Eng Bldg,
+42,ECE120,Introduction to Computing,61616,Discussion/ Recitation,AB3,11:00AM - 11:50AM,R,4070 Electrical & Computer Eng Bldg,
+43,ECE120,Introduction to Computing,61617,Discussion/ Recitation,AB4,12:00PM - 12:50PM,R,4070 Electrical & Computer Eng Bldg,
+44,ECE120,Introduction to Computing,61618,Discussion/ Recitation,AB5,01:00PM - 01:50PM,R,3013 Electrical & Computer Eng Bldg,
+45,ECE120,Introduction to Computing,61619,Discussion/ Recitation,AB6,02:00PM - 02:50PM,R,3081 Electrical & Computer Eng Bldg,
+46,ECE120,Introduction to Computing,61622,Discussion/ Recitation,AB8,04:00PM - 04:50PM,R,3081 Electrical & Computer Eng Bldg,
+47,ECE120,Introduction to Computing,61624,Discussion/ Recitation,ABA,02:00PM - 02:50PM,R,3020 Electrical & Computer Eng Bldg,
+48,ECE120,Introduction to Computing,61626,Discussion/ Recitation,ABB,03:00PM - 03:50PM,R,3020 Electrical & Computer Eng Bldg,
+49,ECE120,Introduction to Computing,61627,Discussion/ Recitation,ABC,04:00PM - 04:50PM,R,3020 Electrical & Computer Eng Bldg,
+50,ECE120,Introduction to Computing,64142,Discussion/ Recitation,ABD,05:00PM - 05:50PM,R,3020 Electrical & Computer Eng Bldg,
+51,ECE120,Introduction to Computing,61606,Online Lecture,AL,09:00AM - 09:50AM,MWF,n.a.,"Levchenko, K"
+52,ECE120,Introduction to Computing,63651,Lecture,AL2,01:00PM - 01:50PM,MWF,3017 Electrical & Computer Eng Bldg,"Bhowmik, U"
+53,ECE120,Introduction to Computing,63653,Online Lecture,AL4,10:00AM - 10:50AM,MWF,n.a.,"Aggarwal, A"
+54,ECE199,Undergraduate Open Seminar,64086,Discussion/ Recitation,110,10:00AM - 11:50AM,F,2036 Campus Instructional Facility,"Schmitz, C"
+55,ECE199,Undergraduate Open Seminar,67644,Discussion/ Recitation,120,02:00PM - 03:50PM,W,0018 Campus Instructional Facility,"Schmitz, C"
+56,ECE200,Seminar,32482,Lecture,SH,05:00PM - 06:50PM,W,1002 Electrical & Computer Eng Bldg,"Kudeki, E"
+57,ECE205,Electrical and Electronic Circuits,65803,Laboratory,AB1,08:00AM - 09:50AM,M,4074 Electrical & Computer Eng Bldg,
+58,ECE205,Electrical and Electronic Circuits,65804,Laboratory,AB2,10:00AM - 11:50AM,M,4074 Electrical & Computer Eng Bldg,
+59,ECE205,Electrical and Electronic Circuits,65805,Laboratory,AB3,03:00PM - 04:50PM,M,4074 Electrical & Computer Eng Bldg,
+60,ECE205,Electrical and Electronic Circuits,65806,Laboratory,AB4,05:00PM - 06:50PM,M,4074 Electrical & Computer Eng Bldg,
+61,ECE205,Electrical and Electronic Circuits,65808,Laboratory,AB5,08:00AM - 09:50AM,W,4074 Electrical & Computer Eng Bldg,
+62,ECE205,Electrical and Electronic Circuits,65809,Laboratory,AB6,10:00AM - 11:50AM,W,4074 Electrical & Computer Eng Bldg,
+63,ECE205,Electrical and Electronic Circuits,65810,Laboratory,AB7,03:00PM - 04:50PM,W,4074 Electrical & Computer Eng Bldg,
+64,ECE205,Electrical and Electronic Circuits,65811,Laboratory,AB8,05:00PM - 06:50PM,W,4074 Electrical & Computer Eng Bldg,
+65,ECE205,Electrical and Electronic Circuits,65812,Laboratory,AB9,08:00AM - 09:50AM,R,4074 Electrical & Computer Eng Bldg,
+66,ECE205,Electrical and Electronic Circuits,65813,Laboratory,ABA,05:00PM - 06:50PM,R,4074 Electrical & Computer Eng Bldg,
+67,ECE205,Electrical and Electronic Circuits,65814,Laboratory,ABB,10:00AM - 11:50AM,F,4074 Electrical & Computer Eng Bldg,
+68,ECE205,Electrical and Electronic Circuits,65815,Laboratory,ABC,03:00PM - 04:50PM,F,4074 Electrical & Computer Eng Bldg,
+69,ECE205,Electrical and Electronic Circuits,59020,Lecture,AL1,12:00PM - 12:50PM,MWF,1002 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+70,ECE206,Electrical and Electronic Circuits Lab,32485,Laboratory,F1,12:00PM - 01:50PM,M,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+71,ECE206,Electrical and Electronic Circuits Lab,32487,Laboratory,F2,08:00AM - 09:50AM,T,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+72,ECE206,Electrical and Electronic Circuits Lab,32489,Laboratory,F3,12:00PM - 01:50PM,W,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+73,ECE206,Electrical and Electronic Circuits Lab,32491,Laboratory,F4,08:00AM - 09:50AM,F,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+74,ECE206,Electrical and Electronic Circuits Lab,32493,Laboratory,F5,12:00PM - 01:50PM,F,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+75,ECE206,Electrical and Electronic Circuits Lab,32495,Laboratory,F6,07:00PM - 08:50PM,M,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+76,ECE206,Electrical and Electronic Circuits Lab,32497,Laboratory,F7,07:00PM - 08:50PM,W,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+77,ECE210,Analog Signal Processing,32534,Laboratory,ABA,10:00AM - 11:50AM,M,4072 Electrical & Computer Eng Bldg,
+78,ECE210,Analog Signal Processing,32535,Laboratory,ABB,10:00AM - 11:50AM,M,4072 Electrical & Computer Eng Bldg,
+79,ECE210,Analog Signal Processing,32536,Laboratory,ABC,12:00PM - 01:50PM,M,4072 Electrical & Computer Eng Bldg,
+80,ECE210,Analog Signal Processing,32537,Laboratory,ABD,12:00PM - 01:50PM,M,4072 Electrical & Computer Eng Bldg,
+81,ECE210,Analog Signal Processing,32538,Laboratory,ABE,02:00PM - 03:50PM,M,4072 Electrical & Computer Eng Bldg,
+82,ECE210,Analog Signal Processing,32539,Laboratory,ABF,02:00PM - 03:50PM,M,4072 Electrical & Computer Eng Bldg,
+83,ECE210,Analog Signal Processing,32541,Laboratory,ABG,04:00PM - 05:50PM,M,4072 Electrical & Computer Eng Bldg,
+84,ECE210,Analog Signal Processing,32561,Laboratory,ABH,04:00PM - 05:50PM,M,4072 Electrical & Computer Eng Bldg,
+85,ECE210,Analog Signal Processing,32564,Laboratory,ABI,06:00PM - 07:50PM,M,4072 Electrical & Computer Eng Bldg,
+86,ECE210,Analog Signal Processing,32566,Laboratory,ABJ,06:00PM - 07:50PM,M,4072 Electrical & Computer Eng Bldg,
+87,ECE210,Analog Signal Processing,32571,Laboratory,ABK,06:00PM - 07:50PM,W,4072 Electrical & Computer Eng Bldg,
+88,ECE210,Analog Signal Processing,32575,Laboratory,ABL,06:00PM - 07:50PM,W,4072 Electrical & Computer Eng Bldg,
+89,ECE210,Analog Signal Processing,55640,Laboratory,ABM,04:00PM - 05:50PM,W,4072 Electrical & Computer Eng Bldg,
+90,ECE210,Analog Signal Processing,73434,Laboratory,ABN,04:00PM - 05:50PM,W,4072 Electrical & Computer Eng Bldg,
+91,ECE210,Analog Signal Processing,73435,Online Lab,ABO,09:00PM - 10:50PM,W,n.a.,
+92,ECE210,Analog Signal Processing,73772,Laboratory,ABP,10:00AM - 12:00PM,R,Location Pending,
+93,ECE210,Analog Signal Processing,73826,Laboratory,ABQ,10:00AM - 11:50AM,R,Location Pending,
+94,ECE210,Analog Signal Processing,73956,Laboratory,ABR,02:00PM - 03:50PM,T,Location Pending,
+95,ECE210,Analog Signal Processing,32505,Lecture,AL1,11:00AM - 11:50AM,MTWF,1013 Electrical & Computer Eng Bldg,"Alvarez, J"
+96,ECE210,Analog Signal Processing,32532,Lecture,AL2,01:00PM - 01:50PM,MTWF,1013 Electrical & Computer Eng Bldg,"Mironenko, O"
+97,ECE210,Analog Signal Processing,32533,Lecture,AL3,02:00PM - 02:50PM,MTWF,1013 Electrical & Computer Eng Bldg,"Mironov, A"
+98,ECE210,Analog Signal Processing,55638,Lecture,AL4,10:00AM - 10:50AM,MTWF,1013 Electrical & Computer Eng Bldg,"Schmitz, C"
+99,ECE210,Analog Signal Processing,59806,Online Lecture,ALO,11:00AM - 11:50AM,MTWF,n.a.,"Alvarez, J"
+100,ECE211,Analog Circuits & Systems,32581,Lecture,B,11:00AM - 11:50AM,MTWF,1013 Electrical & Computer Eng Bldg,"Alvarez, J"
+101,ECE211,Analog Circuits & Systems,55639,Lecture,C,10:00AM - 10:50AM,MTWF,1013 Electrical & Computer Eng Bldg,"Schmitz, C"
+102,ECE211,Analog Circuits & Systems,32620,Lecture,E,01:00PM - 01:50PM,MTWF,1013 Electrical & Computer Eng Bldg,"Mironenko, O"
+103,ECE211,Analog Circuits & Systems,32660,Lecture,F,02:00PM - 02:50PM,MTWF,1013 Electrical & Computer Eng Bldg,"Mironov, A"
+104,ECE211,Analog Circuits & Systems,73372,Online Lecture,ONL,11:00AM - 11:50AM,MTWF,n.a.,"Alvarez, J"
+105,ECE220,Computer Systems & Programming,61635,Discussion/ Recitation,BD1,08:00AM - 08:50AM,F,2022 Electrical & Computer Eng Bldg,
+106,ECE220,Computer Systems & Programming,61636,Discussion/ Recitation,BD2,09:00AM - 09:50AM,F,2022 Electrical & Computer Eng Bldg,
+107,ECE220,Computer Systems & Programming,61637,Discussion/ Recitation,BD3,10:00AM - 10:50AM,F,2022 Electrical & Computer Eng Bldg,
+108,ECE220,Computer Systems & Programming,61639,Discussion/ Recitation,BD4,11:00AM - 11:50AM,F,2022 Electrical & Computer Eng Bldg,
+109,ECE220,Computer Systems & Programming,61638,Discussion/ Recitation,BD5,01:00PM - 01:50PM,F,2022 Electrical & Computer Eng Bldg,
+110,ECE220,Computer Systems & Programming,61640,Discussion/ Recitation,BD6,02:00PM - 02:50PM,F,2022 Electrical & Computer Eng Bldg,
+111,ECE220,Computer Systems & Programming,61641,Discussion/ Recitation,BD7,03:00PM - 03:50PM,F,2022 Electrical & Computer Eng Bldg,
+112,ECE220,Computer Systems & Programming,61642,Discussion/ Recitation,BD8,04:00PM - 04:50PM,F,2022 Electrical & Computer Eng Bldg,
+113,ECE220,Computer Systems & Programming,61643,Discussion/ Recitation,BD9,05:00PM - 05:50PM,F,2022 Electrical & Computer Eng Bldg,
+114,ECE220,Computer Systems & Programming,64369,Discussion/ Recitation,BDA,12:00PM - 12:50PM,F,2022 Electrical & Computer Eng Bldg,
+115,ECE220,Computer Systems & Programming,73951,Laboratory,BDB,ARRANGED,n.a.,Location Pending,
+116,ECE220,Computer Systems & Programming,61629,Lecture,BL,12:30PM - 01:50PM,TR,3031 Campus Instructional Facility,"Chen, Y"
+117,ECE220,Computer Systems & Programming,63649,Lecture,BL2,11:00AM - 12:20PM,TR,4029 Campus Instructional Facility,"Moon, T"
+118,ECE220,Computer Systems & Programming,63650,Lecture,BL3,03:00PM - 04:20PM,TR,1013 Electrical & Computer Eng Bldg,"Bhowmik, U"
+119,ECE297,Individual Study,50224,Independent Study,,ARRANGED,n.a.,n.a.,
+120,ECE298,Special Topics,69477,Lecture,AB,03:00PM - 03:50PM,F,2017 Electrical & Computer Eng Bldg,"Banerjee, A"
+121,ECE298,Special Topics,69475,Lecture,CLA,01:00PM - 01:50PM,MWF,3081 Electrical & Computer Eng Bldg,"Allen, J"
+122,ECE310,Digital Signal Processing,56913,Lecture-Discussion,D,09:00AM - 09:50AM,MWF,1015 Electrical & Computer Eng Bldg,"Liang, Z"
+123,ECE310,Digital Signal Processing,65517,Online Lecture,E,12:00PM - 12:50PM,MWF,n.a.,"Katselis, D"
+124,ECE310,Digital Signal Processing,56914,Online Lecture,G,03:00PM - 03:50PM,MWF,n.a.,"Kamalabadi, F"
+125,ECE311,Digital Signal Processing Lab,56915,Laboratory,A,09:00AM - 10:50AM,T,2022 Electrical & Computer Eng Bldg,"Kamalabadi, F & Katselis, D & Liang, Z"
+126,ECE311,Digital Signal Processing Lab,56916,Laboratory,B,11:00AM - 12:50PM,T,2022 Electrical & Computer Eng Bldg,"Kamalabadi, F & Katselis, D & Liang, Z"
+127,ECE311,Digital Signal Processing Lab,56917,Laboratory,C,01:00PM - 02:50PM,T,2022 Electrical & Computer Eng Bldg,"Kamalabadi, F & Katselis, D & Liang, Z"
+128,ECE311,Digital Signal Processing Lab,73996,Online Lab,ONL,ARRANGED,n.a.,n.a.,"Kamalabadi, F & Katselis, D & Liang, Z"
+129,ECE313,Probability with Engrg Applic,48244,Discussion/ Recitation,C,10:00AM - 10:50AM,MWF,1015 Electrical & Computer Eng Bldg,"Chen, X"
+130,ECE313,Probability with Engrg Applic,48245,Discussion/ Recitation,D,11:00AM - 11:50AM,MWF,3017 Electrical & Computer Eng Bldg,"Shanbhag, N"
+131,ECE313,Probability with Engrg Applic,52919,Discussion/ Recitation,F,01:00PM - 01:50PM,MWF,1015 Electrical & Computer Eng Bldg,"Veeravalli, V"
+132,ECE313,Probability with Engrg Applic,62135,Online Discussion,OND,11:00AM - 11:50AM,MWF,n.a.,"Shanbhag, N"
+133,ECE313,Probability with Engrg Applic,65543,Online Discussion,ONF,01:00PM - 01:50PM,MWF,n.a.,"Veeravalli, V"
+134,ECE314,Probability in Engineering Lab,65511,Laboratory,A,11:00AM - 11:50AM,W,2013 Electrical & Computer Eng Bldg,"Hajek, B"
+135,ECE314,Probability in Engineering Lab,65512,Laboratory,B,02:00PM - 02:50PM,W,2013 Electrical & Computer Eng Bldg,"Hajek, B"
+136,ECE314,Probability in Engineering Lab,67645,Online Lab,C,ARRANGED,W,n.a.,"Hajek, B"
+137,ECE316,Ethics and Engineering,32661,Online Lecture,E1,11:00AM - 12:20PM,TR,n.a.,"Hillmer, P"
+138,ECE316,Ethics and Engineering,32662,Online Lecture,E2,02:00PM - 03:20PM,TR,n.a.,"Hillmer, P"
+139,ECE317,ECE Technology & Management,57347,Lecture,B,08:00AM - 09:20AM,MW,2005 Business Instructional Fac,"He, W"
+140,ECE317,ECE Technology & Management,73443,Online Lecture,ONL,08:00AM - 09:20AM,MW,n.a.,"He, W"
+141,ECE329,Fields and Waves I,32665,Online Discussion,B,02:00PM - 02:50PM,MWF,n.a.,"Shao, Y"
+142,ECE329,Fields and Waves I,32666,Discussion/ Recitation,E,01:00PM - 01:50PM,MWF,2017 Electrical & Computer Eng Bldg,"Ilie, R"
+143,ECE329,Fields and Waves I,32667,Discussion/ Recitation,F,02:00PM - 02:50PM,MWF,2015 Electrical & Computer Eng Bldg,"Shao, Y"
+144,ECE329,Fields and Waves I,32668,Discussion/ Recitation,X,12:00PM - 12:50PM,MWF,2015 Electrical & Computer Eng Bldg,"Chen, Y"
+145,ECE329,Fields and Waves I,69882,Discussion/ Recitation,ZJU,09:00AM - 09:50AM,F,Location Pending,"Jin, J"
+146,ECE330,Power Ckts & Electromechanics,56899,Discussion/ Recitation,C,10:00AM - 10:50AM,MWF,2017 Electrical & Computer Eng Bldg,"Mironenko, O"
+147,ECE330,Power Ckts & Electromechanics,56900,Discussion/ Recitation,F,02:00PM - 02:50PM,MWF,2017 Electrical & Computer Eng Bldg,"Zhang, R"
+148,ECE330,Power Ckts & Electromechanics,73844,Online Discussion,ONZ,02:00PM - 02:50PM,MWF,n.a.,"Zhang, R"
+149,ECE333,Green Electric Energy,52523,Lecture,B,12:30PM - 01:50PM,TR,3017 Electrical & Computer Eng Bldg,"Stillwell, A"
+150,ECE333,Green Electric Energy,55499,Online Lecture,C,12:30PM - 01:50PM,TR,n.a.,"Stillwell, A"
+151,ECE340,Semiconductor Electronics,56893,Discussion/ Recitation,A,10:00AM - 10:50AM,MWF,2015 Electrical & Computer Eng Bldg,"Ravaioli, U"
+152,ECE340,Semiconductor Electronics,62123,Online Discussion,B,11:00AM - 11:50AM,MWF,n.a.,"He, W"
+153,ECE340,Semiconductor Electronics,56894,Discussion/ Recitation,C,11:00AM - 11:50AM,MWF,2015 Electrical & Computer Eng Bldg,"He, W"
+154,ECE340,Semiconductor Electronics,56895,Discussion/ Recitation,X,12:00PM - 12:50PM,MWF,2017 Electrical & Computer Eng Bldg,"Bogdanov, S"
+155,ECE342,Electronic Circuits,60408,Lecture,B,10:00AM - 10:50AM,MWF,3017 Electrical & Computer Eng Bldg,"Kim, K"
+156,ECE342,Electronic Circuits,56912,Lecture,C,09:00AM - 09:50AM,MWF,1013 Electrical & Computer Eng Bldg,"Zhou, J"
+157,ECE342,Electronic Circuits,65593,Online Lecture,E,09:00AM - 09:50AM,MWF,n.a.,"Zhou, J"
+158,ECE343,Electronic Circuits Laboratory,56920,Laboratory,N,11:00AM - 01:50PM,T,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+159,ECE343,Electronic Circuits Laboratory,56921,Laboratory,O,02:00PM - 04:50PM,T,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+160,ECE343,Electronic Circuits Laboratory,56923,Laboratory,Q,05:00PM - 07:50PM,T,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+161,ECE343,Electronic Circuits Laboratory,59422,Laboratory,R,11:00AM - 01:50PM,R,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+162,ECE343,Electronic Circuits Laboratory,60160,Laboratory,S,02:00PM - 04:50PM,R,4074 Electrical & Computer Eng Bldg,"Radhakrishnan, C"
+163,ECE350,Fields and Waves II,73444,Online Discussion,ONL,12:00PM - 12:50PM,MWF,n.a.,"Kudeki, E"
+164,ECE350,Fields and Waves II,56911,Discussion/ Recitation,X,12:00PM - 12:50PM,MWF,3017 Electrical & Computer Eng Bldg,"Kudeki, E"
+165,ECE374,Introduction to Algorithms & Models of Computation,65099,Lecture,AL1,11:00AM - 12:15PM,TR,1002 Electrical & Computer Eng Bldg,"Chan, T & Mehta, R"
+166,ECE374,Introduction to Algorithms & Models of Computation,65100,Discussion/ Recitation,AYA,09:00AM - 09:50AM,WF,1105 Siebel Center for Comp Sci,"Chan, T & Mehta, R"
+167,ECE374,Introduction to Algorithms & Models of Computation,65101,Discussion/ Recitation,AYB,10:00AM - 10:50AM,WF,1105 Siebel Center for Comp Sci,"Chan, T & Mehta, R"
+168,ECE374,Introduction to Algorithms & Models of Computation,65102,Discussion/ Recitation,AYC,02:00PM - 02:50PM,WF,1105 Siebel Center for Comp Sci,"Chan, T & Mehta, R"
+169,ECE374,Introduction to Algorithms & Models of Computation,65103,Discussion/ Recitation,AYD,11:00AM - 11:50AM,WF,1105 Siebel Center for Comp Sci,"Chan, T & Mehta, R"
+170,ECE374,Introduction to Algorithms & Models of Computation,65104,Discussion/ Recitation,AYE,12:00PM - 12:50PM,WF,1105 Siebel Center for Comp Sci,"Chan, T & Mehta, R"
+171,ECE374,Introduction to Algorithms & Models of Computation,65105,Discussion/ Recitation,AYF,01:00PM - 01:50PM,WF,1105 Siebel Center for Comp Sci,"Chan, T & Mehta, R"
+172,ECE374,Introduction to Algorithms & Models of Computation,65106,Discussion/ Recitation,AYG,03:00PM - 03:50PM,WF,1105 Siebel Center for Comp Sci,"Chan, T & Mehta, R"
+173,ECE374,Introduction to Algorithms & Models of Computation,65107,Discussion/ Recitation,AYH,04:00PM - 04:50PM,WF,1105 Siebel Center for Comp Sci,"Chan, T & Mehta, R"
+174,ECE374,Introduction to Algorithms & Models of Computation,65108,Discussion/ Recitation,AYJ,05:00PM - 05:50PM,WF,1105 Siebel Center for Comp Sci,"Chan, T & Mehta, R"
+175,ECE374,Introduction to Algorithms & Models of Computation,67006,Lecture,BL1,03:30PM - 04:45PM,TR,1320 Digital Computer Laboratory,"Kani, N"
+176,ECE374,Introduction to Algorithms & Models of Computation,67950,Discussion/ Recitation,BYA,09:00AM - 09:50AM,WF,3038 Campus Instructional Facility,"Kani, N"
+177,ECE374,Introduction to Algorithms & Models of Computation,67952,Discussion/ Recitation,BYB,11:00AM - 11:50AM,WF,3038 Campus Instructional Facility,"Kani, N"
+178,ECE374,Introduction to Algorithms & Models of Computation,67954,Discussion/ Recitation,BYC,12:00PM - 12:50PM,WF,3038 Campus Instructional Facility,"Kani, N"
+179,ECE374,Introduction to Algorithms & Models of Computation,67956,Discussion/ Recitation,BYD,03:00PM - 03:50PM,WF,3038 Campus Instructional Facility,"Kani, N"
+180,ECE374,Introduction to Algorithms & Models of Computation,67958,Discussion/ Recitation,BYE,01:00PM - 01:50PM,WF,3038 Campus Instructional Facility,"Kani, N"
+181,ECE374,Introduction to Algorithms & Models of Computation,67960,Discussion/ Recitation,BYF,02:00PM - 02:50PM,WF,3038 Campus Instructional Facility,"Kani, N"
+182,ECE374,Introduction to Algorithms & Models of Computation,67964,Lecture,ZJU,03:30PM - 04:45PM,TR,Location Pending,"Kani, N"
+183,ECE385,Digital Systems Laboratory,32767,Online Lab,ABA,ARRANGED,n.a.,n.a.,"Cheng, Z"
+184,ECE385,Digital Systems Laboratory,32782,Laboratory,AL1,ARRANGED,n.a.,Location Pending,"Cheng, Z"
+185,ECE391,Computer Systems Engineering,45300,Discussion/ Recitation,AD1,02:00PM - 02:50PM,W,3026 Electrical & Computer Eng Bldg,
+186,ECE391,Computer Systems Engineering,47023,Discussion/ Recitation,AD2,11:00AM - 11:50AM,W,3026 Electrical & Computer Eng Bldg,
+187,ECE391,Computer Systems Engineering,47024,Discussion/ Recitation,AD3,01:00PM - 01:50PM,W,3026 Electrical & Computer Eng Bldg,
+188,ECE391,Computer Systems Engineering,57948,Discussion/ Recitation,AD4,03:00PM - 03:50PM,W,3026 Electrical & Computer Eng Bldg,
+189,ECE391,Computer Systems Engineering,60950,Discussion/ Recitation,AD5,10:00AM - 10:50AM,W,3026 Electrical & Computer Eng Bldg,
+190,ECE391,Computer Systems Engineering,62679,Discussion/ Recitation,AD6,12:00PM - 12:50PM,W,3026 Electrical & Computer Eng Bldg,
+191,ECE391,Computer Systems Engineering,64298,Discussion/ Recitation,AD7,09:00AM - 09:50AM,W,3026 Electrical & Computer Eng Bldg,
+192,ECE391,Computer Systems Engineering,70982,Online Discussion,ADC,ARRANGED,n.a.,n.a.,
+193,ECE391,Computer Systems Engineering,73827,Online Discussion,ADZ,ARRANGED,n.a.,n.a.,
+194,ECE391,Computer Systems Engineering,45210,Lecture,AL,02:00PM - 03:20PM,TR,1002 Electrical & Computer Eng Bldg,"Hu, Y & Kalbarczyk, Z"
+195,ECE391,Computer Systems Engineering,59056,Online Lecture,ALC,ARRANGED,n.a.,n.a.,"Kalbarczyk, Z"
+196,ECE391,Computer Systems Engineering,73828,Online Lecture,ALZ,02:00PM - 03:20PM,TR,n.a.,"Kalbarczyk, Z"
+197,ECE395,Advanced Digital Projects Lab,32766,Laboratory,A,ARRANGED,n.a.,2076 Electrical & Computer Eng Bldg,"Haken, L"
+198,ECE396,Honors Project,10013,Independent Study,,ARRANGED,n.a.,n.a.,
+199,ECE397,Individual Study in ECE,10010,Independent Study,,ARRANGED,n.a.,n.a.,
+200,ECE398,Special Topics in ECE,54185,Lecture,AS,03:30PM - 04:50PM,TR,2017 Electrical & Computer Eng Bldg,"Han, A"
+201,ECE398,Special Topics in ECE,44435,Online Lecture,ASO,03:30PM - 04:50PM,TR,n.a.,"Han, A"
+202,ECE398,Special Topics in ECE,48831,Lecture,EC,01:00PM - 01:50PM,MWF,2015 Electrical & Computer Eng Bldg,"Chitambar, E"
+203,ECE398,Special Topics in ECE,51057,Lecture,GG,09:30AM - 10:50AM,TR,1015 Electrical & Computer Eng Bldg,"Gross, G"
+204,ECE398,Special Topics in ECE,44437,Laboratory,RI1,12:00PM - 12:50PM,R,3014 Electrical & Computer Eng Bldg,"Ilie, R"
+205,ECE398,Special Topics in ECE,44438,Laboratory,RI2,01:00PM - 01:50PM,R,3014 Electrical & Computer Eng Bldg,"Ilie, R"
+206,ECE398,Special Topics in ECE,44473,Laboratory,RI3,02:00PM - 02:50PM,R,3014 Electrical & Computer Eng Bldg,"Ilie, R"
+207,ECE398,Special Topics in ECE,40557,Laboratory,RI4,03:00PM - 03:50PM,R,3014 Electrical & Computer Eng Bldg,"Ilie, R"
+208,ECE398,Special Topics in ECE,51072,Laboratory,RI5,04:00PM - 04:50PM,R,3014 Electrical & Computer Eng Bldg,"Ilie, R"
+209,ECE402,Electronic Music Synthesis,65853,Laboratory,AB,ARRANGED,n.a.,Location Pending,"Cheng, Z & Haken, L"
+210,ECE402,Electronic Music Synthesis,62076,Discussion/ Recitation,AL,08:00AM - 09:20AM,TR,1002 Electrical & Computer Eng Bldg,"Cheng, Z & Haken, L"
+211,ECE410,Neural Circuits and Systems,73814,Lecture,NS,03:00PM - 03:50PM,MWF,3017 Electrical & Computer Eng Bldg,"Allen, J"
+212,ECE410,Neural Circuits and Systems,73812,Lecture,NS4,03:00PM - 03:50PM,MWF,3017 Electrical & Computer Eng Bldg,"Allen, J"
+213,ECE411,Computer Organization & Design,32816,Lecture,AL,02:00PM - 03:20PM,TR,1015 Electrical & Computer Eng Bldg,"Huang, J"
+214,ECE411,Computer Organization & Design,68297,Online Lecture,ALO,02:00PM - 03:20PM,TR,n.a.,"Huang, J"
+215,ECE411,Computer Organization & Design,32815,Laboratory-Discussion,AY,ARRANGED,n.a.,Location Pending,
+216,ECE414,Biomedical Instrumentation,33724,Discussion/ Recitation,B,11:00AM - 11:50AM,MWF,1302 Everitt Laboratory,"Irudayaraj, J"
+217,ECE415,Biomedical Instrumentation Lab,33726,Laboratory,AB1,01:00PM - 03:50PM,M,0201 Everitt Laboratory,"Reck, R"
+218,ECE415,Biomedical Instrumentation Lab,33727,Laboratory,AB2,12:00PM - 02:50PM,W,0201 Everitt Laboratory,"Reck, R"
+219,ECE415,Biomedical Instrumentation Lab,33728,Laboratory,AB3,03:00PM - 05:50PM,W,0201 Everitt Laboratory,"Reck, R"
+220,ECE415,Biomedical Instrumentation Lab,33729,Laboratory,AB4,04:00PM - 06:50PM,M,0201 Everitt Laboratory,"Reck, R"
+221,ECE415,Biomedical Instrumentation Lab,33730,Lecture,AL1,12:00PM - 12:50PM,M,2310 Everitt Laboratory,"Reck, R"
+222,ECE416,Biosensors,49920,Lecture,A,09:00AM - 09:50AM,MWF,2017 Electrical & Computer Eng Bldg,"Cunningham, B"
+223,ECE420,Embedded DSP Laboratory,33739,Laboratory,ABA,02:00PM - 03:50PM,T,Location Pending,
+224,ECE420,Embedded DSP Laboratory,33741,Laboratory,ABC,02:00PM - 03:50PM,W,Location Pending,
+225,ECE420,Embedded DSP Laboratory,33742,Laboratory,ABD,02:00PM - 03:50PM,R,Location Pending,
+226,ECE420,Embedded DSP Laboratory,33743,Laboratory,ABE,02:00PM - 03:50PM,F,Location Pending,
+227,ECE420,Embedded DSP Laboratory,33744,Lecture,AL1,02:00PM - 02:50PM,M,3015 Electrical & Computer Eng Bldg,"Moon, T"
+228,ECE422,Computer Security I,48201,Lecture-Discussion,AL4,02:00PM - 03:15PM,WF,1404 Siebel Center for Comp Sci,"Bailey, M & Borisov, N"
+229,ECE422,Computer Security I,70798,Lecture-Discussion,ALG,02:00PM - 03:15PM,WF,1404 Siebel Center for Comp Sci,"Bailey, M & Borisov, N"
+230,ECE422,Computer Security I,63514,Discussion/ Recitation,AY1,09:00AM - 09:50AM,R,1105 Siebel Center for Comp Sci,"Bailey, M"
+231,ECE422,Computer Security I,63515,Discussion/ Recitation,AY2,10:00AM - 10:50AM,R,1105 Siebel Center for Comp Sci,"Bailey, M"
+232,ECE422,Computer Security I,63516,Discussion/ Recitation,AY3,11:00AM - 11:50AM,R,1105 Siebel Center for Comp Sci,"Bailey, M"
+233,ECE422,Computer Security I,63517,Discussion/ Recitation,AY4,12:00PM - 12:50PM,R,1105 Siebel Center for Comp Sci,"Bailey, M"
+234,ECE422,Computer Security I,63518,Discussion/ Recitation,AY5,01:00PM - 01:50PM,R,1105 Siebel Center for Comp Sci,"Bailey, M"
+235,ECE422,Computer Security I,63519,Discussion/ Recitation,AY6,02:00PM - 02:50PM,R,1105 Siebel Center for Comp Sci,"Bailey, M"
+236,ECE422,Computer Security I,70256,Discussion/ Recitation,AY7,03:00PM - 03:50PM,R,1105 Siebel Center for Comp Sci,"Bailey, M"
+237,ECE422,Computer Security I,72179,Discussion/ Recitation,AY8,04:00PM - 04:50PM,R,1105 Siebel Center for Comp Sci,"Bailey, M"
+238,ECE422,Computer Security I,72180,Discussion/ Recitation,AY9,05:00PM - 05:50PM,R,1105 Siebel Center for Comp Sci,"Bailey, M"
+239,ECE425,Intro to VLSI System Design,33850,Online Lab,AB1,ARRANGED,n.a.,n.a.,
+240,ECE425,Intro to VLSI System Design,33853,Online Lecture,AL1,12:00PM - 12:50PM,MWF,n.a.,"Aggarwal, A"
+241,ECE428,Distributed Systems,31388,Online,T3,11:00AM - 12:15PM,TR,n.a.,"Mittal, R"
+242,ECE428,Distributed Systems,56317,Online,T4,11:00AM - 12:15PM,TR,n.a.,"Mittal, R"
+243,ECE428,Distributed Systems,68090,Online,TU4,11:00AM - 12:15PM,TR,n.a.,"Mittal, R"
+244,ECE431,Electric Machinery,33876,Laboratory,ABA,09:30AM - 12:20PM,R,4024 Electrical & Computer Eng Bldg,
+245,ECE431,Electric Machinery,33878,Laboratory,ABB,12:00PM - 02:50PM,W,4024 Electrical & Computer Eng Bldg,
+246,ECE431,Electric Machinery,33879,Laboratory,ABC,02:00PM - 04:50PM,R,4024 Electrical & Computer Eng Bldg,
+247,ECE431,Electric Machinery,51021,Laboratory,ABD,03:00PM - 05:50PM,W,4024 Electrical & Computer Eng Bldg,
+248,ECE431,Electric Machinery,33880,Lecture,AL1,09:00AM - 09:50AM,MWF,3017 Electrical & Computer Eng Bldg,"Haran, K"
+249,ECE437,Sensors and Instrumentation,39328,Laboratory,AB1,09:00AM - 11:50AM,T,4022 Electrical & Computer Eng Bldg,
+250,ECE437,Sensors and Instrumentation,39329,Laboratory,AB2,09:00AM - 11:50AM,R,4022 Electrical & Computer Eng Bldg,
+251,ECE437,Sensors and Instrumentation,39326,Lecture,AL1,02:00PM - 03:20PM,M,3013 Electrical & Computer Eng Bldg,"Gruev, V"
+252,ECE438,Communication Networks,31412,Lecture-Discussion,R3,09:30AM - 10:45AM,TR,1404 Siebel Center for Comp Sci,"Vasisht, D"
+253,ECE438,Communication Networks,56313,Lecture-Discussion,R4,09:30AM - 10:45AM,TR,1404 Siebel Center for Comp Sci,"Vasisht, D"
+254,ECE439,Wireless Networks,48237,Lecture,B3,09:30AM - 10:50AM,TR,3015 Electrical & Computer Eng Bldg,"Al-Hassanieh, H"
+255,ECE439,Wireless Networks,48238,Lecture,B4,09:30AM - 10:50AM,TR,3015 Electrical & Computer Eng Bldg,"Al-Hassanieh, H"
+256,ECE441,Physcs & Modeling Semicond Dev,33888,Lecture-Discussion,D,10:00AM - 10:50AM,MWF,3081 Electrical & Computer Eng Bldg,"Rakheja, S"
+257,ECE443,LEDs and Solar Cells,69248,Laboratory,CB1,12:00PM - 01:50PM,M,1003 Electrical & Computer Eng Bldg,"Bayram, C"
+258,ECE443,LEDs and Solar Cells,69249,Laboratory,CB2,12:00PM - 01:50PM,T,1003 Electrical & Computer Eng Bldg,"Bayram, C & Liu, D"
+259,ECE443,LEDs and Solar Cells,69250,Laboratory,CB3,09:00AM - 10:50AM,W,1003 Electrical & Computer Eng Bldg,"Bayram, C & Liu, D"
+260,ECE443,LEDs and Solar Cells,69251,Laboratory,CB4,11:00AM - 12:50PM,W,1003 Electrical & Computer Eng Bldg,"Bayram, C & Liu, D"
+261,ECE443,LEDs and Solar Cells,69252,Laboratory,CB5,12:00PM - 01:50PM,R,1003 Electrical & Computer Eng Bldg,"Bayram, C & Liu, D"
+262,ECE443,LEDs and Solar Cells,69253,Laboratory,CB6,09:00AM - 10:50AM,F,1003 Electrical & Computer Eng Bldg,"Bayram, C & Liu, D"
+263,ECE443,LEDs and Solar Cells,69254,Laboratory,CB7,11:00AM - 12:50PM,F,1003 Electrical & Computer Eng Bldg,"Bayram, C & Liu, D"
+264,ECE443,LEDs and Solar Cells,69255,Lecture,CL1,02:00PM - 02:50PM,MWF,3017 Electrical & Computer Eng Bldg,"Bayram, C"
+265,ECE444,IC Device Theory & Fabrication,33902,Laboratory,AB1,09:00AM - 11:50AM,T,ARR Micro & Nanotechnology Lab,
+266,ECE444,IC Device Theory & Fabrication,33903,Laboratory,AB2,02:00PM - 04:50PM,T,ARR Micro & Nanotechnology Lab,
+267,ECE444,IC Device Theory & Fabrication,33904,Laboratory,AB3,09:00AM - 11:50AM,R,ARR Micro & Nanotechnology Lab,
+268,ECE444,IC Device Theory & Fabrication,33905,Laboratory,AB4,02:00PM - 04:50PM,R,ARR Micro & Nanotechnology Lab,
+269,ECE444,IC Device Theory & Fabrication,33906,Laboratory,AB5,02:00PM - 04:50PM,M,ARR Micro & Nanotechnology Lab,
+270,ECE444,IC Device Theory & Fabrication,33907,Laboratory,AB6,02:00PM - 04:50PM,W,ARR Micro & Nanotechnology Lab,
+271,ECE444,IC Device Theory & Fabrication,33908,Laboratory,AB7,02:00PM - 04:50PM,F,ARR Micro & Nanotechnology Lab,
+272,ECE444,IC Device Theory & Fabrication,33900,Discussion/ Recitation,AD1,09:00AM - 09:50AM,MWF,2013 Electrical & Computer Eng Bldg,"Froeter, P"
+273,ECE444,IC Device Theory & Fabrication,33901,Discussion/ Recitation,AD2,10:00AM - 10:50AM,MWF,2013 Electrical & Computer Eng Bldg,"Lee, M"
+274,ECE445,Senior Design Project Lab,56597,Laboratory,H,04:00PM - 05:50PM,T,1002 Electrical & Computer Eng Bldg,"Fliflet, A & Schuh, J & Shao, Y & Song, P"
+275,ECE447,Active Microwave Ckt Design,33910,Laboratory,ABA,01:00PM - 03:50PM,W,5076 Electrical & Computer Eng Bldg,
+276,ECE447,Active Microwave Ckt Design,33911,Laboratory,ABB,06:00PM - 08:50PM,W,5076 Electrical & Computer Eng Bldg,
+277,ECE447,Active Microwave Ckt Design,33912,Laboratory,ABC,06:00PM - 08:50PM,T,5076 Electrical & Computer Eng Bldg,
+278,ECE447,Active Microwave Ckt Design,33913,Lecture,AL1,04:00PM - 05:15PM,M,4070 Electrical & Computer Eng Bldg,"Chen, X"
+279,ECE448,Artificial Intelligence,31425,Lecture-Discussion,Q3,01:00PM - 01:50PM,MWF,1002 Electrical & Computer Eng Bldg,"Hasegawa-Johnson, M"
+280,ECE448,Artificial Intelligence,31426,Lecture-Discussion,Q4,01:00PM - 01:50PM,MWF,1002 Electrical & Computer Eng Bldg,"Hasegawa-Johnson, M"
+281,ECE448,Artificial Intelligence,69114,Online Lecture,R3,01:00PM - 01:50PM,MWF,n.a.,"Hasegawa-Johnson, M"
+282,ECE448,Artificial Intelligence,69117,Online Lecture,R4,01:00PM - 01:50PM,MWF,n.a.,"Hasegawa-Johnson, M"
+283,ECE449,Machine Learning,70856,Lecture-Discussion,P3,12:30PM - 01:45PM,TR,1002 Electrical & Computer Eng Bldg,"Schwing, A & Telgarsky, M"
+284,ECE449,Machine Learning,70857,Lecture-Discussion,P4,12:30PM - 01:45PM,TR,1002 Electrical & Computer Eng Bldg,"Schwing, A & Telgarsky, M"
+285,ECE454,Antennas,33920,Discussion/ Recitation,B,11:00AM - 12:20PM,TR,2017 Electrical & Computer Eng Bldg,"Bernhard, J"
+286,ECE454,Antennas,41670,Online,ON,11:00AM - 12:20PM,TR,n.a.,"Bernhard, J"
+287,ECE461,Digital Communications,67646,Lecture,A,09:30AM - 10:50AM,TR,3013 Electrical & Computer Eng Bldg,"Alvarez, J"
+288,ECE461,Digital Communications,73437,Online Lecture,ONL,ARRANGED,n.a.,n.a.,
+289,ECE470,Introduction to Robotics,65294,Laboratory,AB1,09:00AM - 10:50AM,T,3071 Electrical & Computer Eng Bldg,
+290,ECE470,Introduction to Robotics,65295,Laboratory,AB2,09:00AM - 10:50AM,R,3071 Electrical & Computer Eng Bldg,
+291,ECE470,Introduction to Robotics,65296,Laboratory,AB3,02:00PM - 03:50PM,T,3071 Electrical & Computer Eng Bldg,
+292,ECE470,Introduction to Robotics,65297,Laboratory,AB4,02:00PM - 03:50PM,R,3071 Electrical & Computer Eng Bldg,
+293,ECE470,Introduction to Robotics,65298,Laboratory,AB5,09:00AM - 10:50AM,M,3071 Electrical & Computer Eng Bldg,
+294,ECE470,Introduction to Robotics,68176,Laboratory,AB6,04:00PM - 05:50PM,T,3071 Electrical & Computer Eng Bldg,
+295,ECE470,Introduction to Robotics,68179,Laboratory,AB7,04:00PM - 05:50PM,R,3071 Electrical & Computer Eng Bldg,
+296,ECE470,Introduction to Robotics,65293,Lecture,AL,12:30PM - 01:50PM,TR,1015 Electrical & Computer Eng Bldg,"Kim, J"
+297,ECE472,Biomedical Ultrasound Imaging,52420,Lecture,A,11:00AM - 12:20PM,TR,3020 Electrical & Computer Eng Bldg,"Song, P"
+298,ECE481,Nanotechnology,54679,Lecture,C3,02:00PM - 03:20PM,TR,2013 Electrical & Computer Eng Bldg,"Lyding, J"
+299,ECE481,Nanotechnology,54680,Lecture,C4,02:00PM - 03:20PM,TR,2013 Electrical & Computer Eng Bldg,"Lyding, J"
+300,ECE483,Analog IC Design,33973,Discussion/ Recitation,L,10:00AM - 11:20AM,MW,3015 Electrical & Computer Eng Bldg,"Hanumolu, P"
+301,ECE484,Principles of Safe Autonomy,73236,Lecture,,11:00AM - 12:20PM,TR,3017 Electrical & Computer Eng Bldg,"Mitra, S"
+302,ECE486,Control Systems,33976,Laboratory,ABA,03:00PM - 05:50PM,T,3077 Electrical & Computer Eng Bldg,
+303,ECE486,Control Systems,33977,Laboratory,ABB,11:00AM - 01:50PM,T,3077 Electrical & Computer Eng Bldg,
+304,ECE486,Control Systems,33978,Laboratory,ABC,02:00PM - 04:50PM,W,3077 Electrical & Computer Eng Bldg,
+305,ECE486,Control Systems,60317,Laboratory,ABD,09:00AM - 11:50AM,W,3077 Electrical & Computer Eng Bldg,
+306,ECE486,Control Systems,40641,Laboratory,ABE,11:00AM - 01:50PM,R,3077 Electrical & Computer Eng Bldg,
+307,ECE486,Control Systems,66183,Laboratory,ABF,03:00PM - 05:50PM,R,3013 Electrical & Computer Eng Bldg,
+308,ECE486,Control Systems,33975,Discussion/ Recitation,ADC,09:30AM - 10:50AM,TR,3017 Electrical & Computer Eng Bldg,"Raginsky, M"
+309,ECE489,Robot Dynamics and Control,65766,Laboratory,AB1,12:00PM - 02:50PM,F,3071 Electrical & Computer Eng Bldg,"Block, D"
+310,ECE489,Robot Dynamics and Control,65767,Laboratory,AB2,11:00AM - 01:50PM,W,3071 Electrical & Computer Eng Bldg,"Block, D"
+311,ECE489,Robot Dynamics and Control,65768,Laboratory,AB3,09:00AM - 11:50AM,F,3071 Electrical & Computer Eng Bldg,"Block, D"
+312,ECE489,Robot Dynamics and Control,64910,Lecture,AL,09:30AM - 10:50AM,TR,144 Loomis Laboratory,"Almeida de Souza Ramos, J"
+313,ECE490,Introduction to Optimization,33979,Online Discussion,OP3,11:00AM - 12:20PM,TR,n.a.,"Hu, B"
+314,ECE490,Introduction to Optimization,54360,Online Discussion,OP4,11:00AM - 12:20PM,TR,n.a.,"Hu, B"
+315,ECE491,Numerical Analysis,31436,Lecture-Discussion,B3,09:30AM - 10:45AM,WF,180 Bevier Hall,"Fischer, P"
+316,ECE491,Numerical Analysis,31438,Lecture-Discussion,B4,09:30AM - 10:45AM,WF,180 Bevier Hall,"Fischer, P"
+317,ECE492,Parallel Progrmg: Sci & Engrg,31374,Lecture-Discussion,D3,12:30PM - 01:45PM,TR,1320 Digital Computer Laboratory,"Kanakagiri, R"
+318,ECE492,Parallel Progrmg: Sci & Engrg,39739,Lecture-Discussion,D4,12:30PM - 01:45PM,TR,1320 Digital Computer Laboratory,"Kanakagiri, R"
+319,ECE496,Senior Research Project,58387,Independent Study,,ARRANGED,n.a.,n.a.,
+320,ECE498,Special Topics in ECE,52711,Laboratory,HK,ARRANGED,n.a.,Location Pending,"Hanumolu, P & Kumar, R"
+321,ECE498,Special Topics in ECE,69589,Lecture,KF3,09:30AM - 10:50AM,TR,3081 Electrical & Computer Eng Bldg,"Fang, K"
+322,ECE498,Special Topics in ECE,70829,Lecture,KF4,09:30AM - 10:50AM,TR,3081 Electrical & Computer Eng Bldg,"Fang, K"
+323,ECE499,Senior Thesis,10018,Independent Study,,ARRANGED,n.a.,n.a.,
+324,ECE500,ECE Colloquium,33981,Lecture,U,04:00PM - 04:50PM,R,1002 Electrical & Computer Eng Bldg,
+325,ECE500,ECE Colloquium,40290,Online Lecture,U1,04:00PM - 04:50PM,R,n.a.,
+326,ECE512,Computer Microarchitecture,39333,Lecture-Discussion,G,09:30AM - 10:50AM,TR,2013 Electrical & Computer Eng Bldg,"Kim, N"
+327,ECE513,Vector Space Signal Processing,44849,Online Lecture,D,09:30AM - 10:50AM,MW,n.a.,"Zhao, Z"
+328,ECE515,Control System Theory & Design,33983,Discussion/ Recitation,N,11:00AM - 12:20PM,MW,4070 Electrical & Computer Eng Bldg,"Dong, R"
+329,ECE515,Control System Theory & Design,40663,Online Discussion,ONL,11:00AM - 12:20PM,MW,n.a.,"Dong, R"
+330,ECE528,Analysis of Nonlinear Systems,33986,Discussion/ Recitation,R,11:00AM - 12:20PM,TR,2015 Electrical & Computer Eng Bldg,"Dullerud, G"
+331,ECE532,Compnd Semicond & Diode Lasers,73234,Discussion/ Recitation,A,12:00PM - 12:50PM,MWF,2013 Electrical & Computer Eng Bldg,"Choquette, K"
+332,ECE534,Random Processes,33989,Discussion/ Recitation,F,11:00AM - 12:20PM,MW,1015 Electrical & Computer Eng Bldg,"Milenkovic, O"
+333,ECE534,Random Processes,73456,Online Discussion,ONL,11:00AM - 12:20PM,MW,n.a.,"Milenkovic, O"
+334,ECE536,Integ Optics & Optoelectronics,33990,Discussion/ Recitation,N,11:00AM - 12:20PM,TR,3013 Electrical & Computer Eng Bldg,"Ravaioli, U"
+335,ECE543,Statistical Learning Theory,65169,Online Discussion,C,05:00PM - 07:50PM,M,n.a.,"Katselis, D"
+336,ECE546,Advanced Signal Integrity,60336,Lecture,E,01:00PM - 01:50PM,MWF,3015 Electrical & Computer Eng Bldg,"Schutt-Aine, J"
+337,ECE546,Advanced Signal Integrity,73464,Online Lecture,ONL,01:00PM - 01:50PM,MWF,n.a.,"Schutt-Aine, J"
+338,ECE553,Optimum Control Systems,33998,Discussion/ Recitation,N,02:00PM - 03:20PM,TR,4070 Electrical & Computer Eng Bldg,"Liberzon, D"
+339,ECE554,Dynamic System Reliability,61609,Lecture,A,12:30PM - 01:50PM,TR,2013 Electrical & Computer Eng Bldg,"Dominguez-Garcia, A"
+340,ECE555,Control of Stochastic Systems,33999,Discussion/ Recitation,C,03:30PM - 04:50PM,TR,2013 Electrical & Computer Eng Bldg,"Belabbas, M"
+341,ECE561,Statistical Inference for Engineers and Data Scientists,34003,Discussion/ Recitation,E,11:00AM - 12:20PM,TR,2013 Electrical & Computer Eng Bldg,"Moulin, P"
+342,ECE576,Power System Dynm & Stability,39339,Discussion/ Recitation,G,02:00PM - 03:20PM,TR,Location Pending,"Bose, S"
+343,ECE585,MOS Device Modeling & Design,34009,Lecture,D,09:30AM - 10:50AM,TR,2017 Electrical & Computer Eng Bldg,"Rosenbaum, E"
+344,ECE590,Graduate Seminar in Special Topics,34010,Lecture,D,04:00PM - 04:50PM,W,3013 Electrical & Computer Eng Bldg,"Oelze, M"
+345,ECE590,Graduate Seminar in Special Topics,34014,Lecture,I,03:00PM - 03:50PM,M,Location Pending,"Gross, G"
+346,ECE590,Graduate Seminar in Special Topics,34011,Online Lecture,K,02:00PM - 02:50PM,F,n.a.,"Driggs-Campbell, K"
+347,ECE590,Graduate Seminar in Special Topics,69659,Lecture,RSS,04:00PM - 04:50PM,W,4070 Electrical & Computer Eng Bldg,"Ilie, R"
+348,ECE590,Graduate Seminar in Special Topics,34013,Lecture,SIC,04:00PM - 04:50PM,W,2017 Electrical & Computer Eng Bldg,"Hasegawa-Johnson, M"
+349,ECE590,Graduate Seminar in Special Topics,47758,Lecture-Discussion,TL,11:00AM - 11:50AM,F,1320 Digital Computer Laboratory,"Beckman, M & Chen, Y & Johnson, B"
+350,ECE594,Math Models of Language,34016,Lecture,B,09:30AM - 10:50AM,TR,4070 Electrical & Computer Eng Bldg,"Bhat, S"
+351,ECE596,Master's Project,10020,Independent Study,,ARRANGED,n.a.,n.a.,
+352,ECE597,Individual Study in ECE,10023,Independent Study,,ARRANGED,n.a.,n.a.,
+353,ECE598,Special Topics in ECE,44432,Lecture,AM,09:30AM - 10:50AM,TR,2015 Electrical & Computer Eng Bldg,"Miller, A"
+354,ECE598,Special Topics in ECE,34018,Online Lecture,HRO,02:00PM - 03:20PM,TR,n.a.,"Driggs-Campbell, K"
+355,ECE598,Special Topics in ECE,44042,Lecture,IS,09:30AM - 10:50AM,TR,3026 Electrical & Computer Eng Bldg,"Shomorony, I"
+356,ECE598,Special Topics in ECE,50284,Lecture,KDC,02:00PM - 03:20PM,TR,2017 Electrical & Computer Eng Bldg,"Driggs-Campbell, K"
+357,ECE598,Special Topics in ECE,45422,Lecture,LV,11:00AM - 12:20PM,TR,1015 Electrical & Computer Eng Bldg,"Varshney, L"
+358,ECE598,Special Topics in ECE,70827,Lecture,PD,02:00PM - 03:20PM,TR,3015 Electrical & Computer Eng Bldg,"Dragic, P"
+359,ECE598,Special Topics in ECE,49792,Lecture,PV,12:30PM - 01:50PM,TR,2017 Electrical & Computer Eng Bldg,"Viswanath, P"
+360,ECE598,Special Topics in ECE,48773,Lecture,ZP,03:30PM - 04:50PM,TR,2015 Electrical & Computer Eng Bldg,"Peng, Z"
+361,ECE599,Thesis Research,10025,Independent Study,,ARRANGED,n.a.,n.a.,

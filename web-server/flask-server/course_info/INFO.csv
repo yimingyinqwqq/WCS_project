@@ -1,0 +1,37 @@
+,Course,Name,CRN,Type,Section,Time,Day,Location,Instructor
+0,INFO102,Little Bits to Big Ideas,63226,Laboratory,AB1,04:00PM - 05:15PM,T,G27 Foreign Languages Building,"Mathew, R"
+1,INFO102,Little Bits to Big Ideas,63227,Laboratory,AB2,04:00PM - 05:15PM,W,G27 Foreign Languages Building,"Kashinath, A"
+2,INFO102,Little Bits to Big Ideas,63228,Laboratory,AB3,04:00PM - 05:15PM,R,G27 Foreign Languages Building,"Mathew, R"
+3,INFO102,Little Bits to Big Ideas,66600,Laboratory,AB4,05:30PM - 06:45PM,T,G27 Foreign Languages Building,"Mathew, R"
+4,INFO102,Little Bits to Big Ideas,66602,Laboratory,AB5,05:30PM - 06:45PM,W,G27 Foreign Languages Building,"Kashinath, A"
+5,INFO102,Little Bits to Big Ideas,63224,Lecture,AL1,09:00AM - 09:50AM,MWF,100 Materials Science & Eng Bld,"Cunningham, R"
+6,INFO199,Undergraduate Open Seminar,53622,Independent Study,,ARRANGED,n.a.,n.a.,
+7,INFO202,Social Aspects Info Tech,53421,Discussion/ Recitation,AD1,09:00AM - 09:50AM,F,29 Psychology Building,"Darch, P & Kendall, L & Lundy, M"
+8,INFO202,Social Aspects Info Tech,53422,Discussion/ Recitation,AD2,10:00AM - 10:50AM,F,29 Psychology Building,"Darch, P & Kendall, L & Lundy, M"
+9,INFO202,Social Aspects Info Tech,53424,Discussion/ Recitation,AD3,11:00AM - 11:50AM,F,29 Psychology Building,"Darch, P & Grisales Bohorquez, C & Kendall, L"
+10,INFO202,Social Aspects Info Tech,53425,Discussion/ Recitation,AD4,12:00PM - 12:50PM,F,29 Psychology Building,"Darch, P & Grisales Bohorquez, C & Kendall, L"
+11,INFO202,Social Aspects Info Tech,53419,Discussion/ Recitation,AD5,01:00PM - 01:50PM,F,29 Psychology Building,"Darch, P & Kendall, L & Maimone, J"
+12,INFO202,Social Aspects Info Tech,53423,Discussion/ Recitation,AD6,02:00PM - 02:50PM,F,29 Psychology Building,"Darch, P & Kendall, L & Maimone, J"
+13,INFO202,Social Aspects Info Tech,49273,Online,AE1,11:00AM - 11:50AM,MW,n.a.,"Darch, P & Kendall, L"
+14,INFO303,Writing Across Media,53375,Lecture,A,09:30AM - 10:45AM,TR,3117 Everitt Laboratory,"Bacon, D"
+15,INFO303,Writing Across Media,53374,Lecture,B,11:00AM - 12:15PM,TR,3117 Everitt Laboratory,"McMahon, F"
+16,INFO303,Writing Across Media,55726,Lecture,C,12:30PM - 01:45PM,TR,3117 Everitt Laboratory,"Lafond, B"
+17,INFO303,Writing Across Media,53376,Lecture,D,02:00PM - 03:15PM,TR,3117 Everitt Laboratory,"Neyhard, Y"
+18,INFO310,Computing in the Humanities,53864,Lecture-Discussion,A,11:00AM - 12:20PM,TR,140 Henry Administration Bldg,"LeBlanc, Z"
+19,INFO399,Individual Study,51391,Independent Study,,ARRANGED,n.a.,n.a.,
+20,INFO407,Introduction to Programming Python for Data Science,71758,Online,SN,ARRANGED,n.a.,n.a.,"Narisetti, S"
+21,INFO416,Makerspace: Game Studies,71857,Laboratory-Discussion,A,11:00AM - 12:20PM,TR,"FAB LAB Art-East Annex, Studio 2","Butt, E"
+22,INFO416,Makerspace: Game Studies,71858,Laboratory-Discussion,AG,11:00AM - 12:20PM,TR,"FAB LAB Art-East Annex, Studio 2","Butt, E"
+23,INFO418,Makerspace: Escape Rooms,71821,Laboratory-Discussion,A,01:00PM - 03:50PM,M,"FAB LAB Art-East Annex, Studio 2","Baird, D"
+24,INFO418,Makerspace: Escape Rooms,71822,Laboratory-Discussion,AG,01:00PM - 03:50PM,M,"FAB LAB Art-East Annex, Studio 2","Baird, D"
+25,INFO490,Special Topics,68730,Laboratory-Discussion,ST2,12:30PM - 01:50PM,TR,53 Grad Sch of Lib & Info Science,"Tipei, S"
+26,INFO491,Ugrad Bioinformatics Seminar,55548,Online,A,12:00PM - 12:50PM,R,n.a.,"Rodriguez Zas, S"
+27,INFO491,Ugrad Bioinformatics Seminar,66288,Online,B,12:00PM - 12:50PM,R,n.a.,"Rodriguez Zas, S"
+28,INFO491,Ugrad Bioinformatics Seminar,71685,Online,C,12:00PM - 12:50PM,R,n.a.,"Rodriguez Zas, S"
+29,INFO500,Orientation Seminar,59667,Discussion/ Recitation,A,04:00PM - 04:50PM,R,Location Pending,"Turk, M"
+30,INFO510,Research Practicum,60303,Independent Study,,ARRANGED,n.a.,n.a.,
+31,INFO591,Grad Bioinformatics Seminar,55549,Online,A,12:00PM - 12:50PM,R,n.a.,"Rodriguez Zas, S"
+32,INFO591,Grad Bioinformatics Seminar,68684,Online,B,12:00PM - 12:50PM,R,n.a.,"Rodriguez Zas, S"
+33,INFO591,Grad Bioinformatics Seminar,71688,Online,C,12:00PM - 12:50PM,R,n.a.,"Rodriguez Zas, S"
+34,INFO597,Individual Study,60304,Independent Study,,ARRANGED,n.a.,n.a.,
+35,INFO599,Thesis Research,51392,Independent Study,,ARRANGED,n.a.,n.a.,

@@ -1,0 +1,18 @@
+,Course,Name,CRN,Type,Section,Time,Day,Location,Instructor
+0,HORT100,Introduction to Horticulture,34165,Online,OLP,ARRANGED,n.a.,n.a.,"Taylor, A"
+1,HORT100,Introduction to Horticulture,56037,Online,ONL,ARRANGED,n.a.,n.a.,"Taylor, A"
+2,HORT105,Vegetable Gardening,34168,Laboratory,AB1,09:00AM - 10:50AM,T,1125 Plant Sciences Laboratory,
+3,HORT105,Vegetable Gardening,34174,Laboratory,AB2,01:00PM - 02:50PM,T,1125 Plant Sciences Laboratory,
+4,HORT105,Vegetable Gardening,34172,Laboratory,AB3,09:00AM - 10:50AM,R,1125 Plant Sciences Laboratory,
+5,HORT105,Vegetable Gardening,34178,Laboratory,AB4,01:00PM - 02:50PM,R,1125 Plant Sciences Laboratory,
+6,HORT105,Vegetable Gardening,34176,Laboratory,AB5,12:00PM - 01:50PM,F,1125 Plant Sciences Laboratory,
+7,HORT105,Vegetable Gardening,34179,Lecture,AL1,11:00AM - 11:50AM,MW,149 National Soybean Res Ctr,"Nelson, J"
+8,HORT199,Special Topics,48849,Online Lecture Discussion,BEB,02:00PM - 02:50PM,R,n.a.,"Branham, B"
+9,HORT223,The Intelligent Behavior of Plants,68723,Lecture-Discussion,A,02:00PM - 03:20PM,TR,W223 Turner Hall,"Hind, S"
+10,HORT341,Greenhouse Mgmt and Production,62293,Laboratory,A,09:00AM - 11:50AM,F,1125 Plant Sciences Laboratory,"Sacks, E"
+11,HORT361,Small Fruit Production,63547,Lecture-Discussion,B,12:00PM - 01:50PM,MW,1303 Plant Sciences Laboratory,"Taylor, A"
+12,HORT393,Horticulture Internship,70103,Internship,,ARRANGED,n.a.,Location Pending,
+13,HORT395,Undergrad Research or Thesis,70276,Independent Study,,ARRANGED,n.a.,n.a.,
+14,HORT396,Ug Honors Research or Thesis,34212,Independent Study,,ARRANGED,n.a.,n.a.,
+15,HORT430,Children and Nature,68725,Online Lecture Discussion,OLP,07:00PM - 08:30PM,W,n.a.,"Taylor, A"
+16,HORT430,Children and Nature,59877,Online Lecture Discussion,ONL,07:00PM - 08:30PM,W,n.a.,"Taylor, A"

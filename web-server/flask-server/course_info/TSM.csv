@@ -1,0 +1,42 @@
+,Course,Name,CRN,Type,Section,Time,Day,Location,Instructor
+0,TSM100,Technical Systems in Agr,37173,Lecture,AL1,09:00AM - 09:50AM,MWF,208 Agricultural Engr Sciences Bld,"Raveendran Nair, G"
+1,TSM103,Agricultural Machinery and Technology,72282,Online,BK,ARRANGED,n.a.,n.a.,"Kuhns, B"
+2,TSM132,Basics of Project Management,69430,Laboratory,PCD,10:00AM - 12:50PM,R,220 Agricultural Engr Sciences Bld,"Davidson, P"
+3,TSM199,Undergraduate Open Seminar,10243,Independent Study,,ARRANGED,n.a.,n.a.,
+4,TSM199,Undergraduate Open Seminar,73179,Online,RC2,01:00PM - 02:50PM,MW,n.a.,"Anamelechi, F & Cooke, R"
+5,TSM234,"Wiring, Motors and Control Sys",37176,Laboratory,AB1,10:00AM - 11:50AM,T,119 Agricultural Engr Sciences Bld,"Raveendran Nair, G"
+6,TSM234,"Wiring, Motors and Control Sys",37178,Laboratory,AB2,10:00AM - 11:50AM,R,119 Agricultural Engr Sciences Bld,"Raveendran Nair, G"
+7,TSM234,"Wiring, Motors and Control Sys",50356,Laboratory,AB3,08:00AM - 09:50AM,R,119 Agricultural Engr Sciences Bld,"Raveendran Nair, G"
+8,TSM234,"Wiring, Motors and Control Sys",53774,Laboratory,AB4,08:00AM - 09:50AM,T,119 Agricultural Engr Sciences Bld,"Raveendran Nair, G"
+9,TSM234,"Wiring, Motors and Control Sys",37181,Lecture,AL1,03:00PM - 03:50PM,TR,208 Agricultural Engr Sciences Bld,"Raveendran Nair, G"
+10,TSM262,Off-Road Equipment Management,54745,Laboratory,AB1,09:00AM - 11:50AM,F,248 Agricultural Engr Sciences Bld,"Allen, C"
+11,TSM262,Off-Road Equipment Management,54744,Online Lecture,ALH,09:00AM - 09:50AM,MW,n.a.,"Allen, C"
+12,TSM293,Off-Campus Internship,40107,Independent Study,,ARRANGED,n.a.,n.a.,
+13,TSM295,Undergrad Research or Thesis,10247,Independent Study,,ARRANGED,n.a.,n.a.,
+14,TSM311,Humanity in the Food Web,66568,Online Discussion,AD1,02:00PM - 02:50PM,F,n.a.,"Green-Miller, A & Tucker, C"
+15,TSM311,Humanity in the Food Web,57736,Online Discussion,AD2,10:00AM - 10:50AM,F,n.a.,"Green-Miller, A & Tucker, C"
+16,TSM311,Humanity in the Food Web,57737,Discussion/ Recitation,AD3,10:00AM - 10:50AM,W,208 Agricultural Engr Sciences Bld,"Green-Miller, A & Tucker, C"
+17,TSM311,Humanity in the Food Web,57738,Discussion/ Recitation,AD4,11:00AM - 11:50AM,W,272 Agricultural Engr Sciences Bld,"Green-Miller, A & Tucker, C"
+18,TSM311,Humanity in the Food Web,72552,Online Discussion,AD5,06:00PM - 06:50PM,W,n.a.,"Green-Miller, A & Tucker, C"
+19,TSM311,Humanity in the Food Web,44662,Online Lecture,AL1,ARRANGED,n.a.,n.a.,"Green-Miller, A & Tucker, C"
+20,TSM363,Fluid Power Systems,48882,Laboratory,AB1,01:00PM - 02:50PM,R,248 Agricultural Engr Sciences Bld,"Grift, T"
+21,TSM363,Fluid Power Systems,48883,Lecture,AL1,01:00PM - 01:50PM,MW,248 Agricultural Engr Sciences Bld,"Grift, T"
+22,TSM371,Residential Housing Design,37193,Laboratory,AB1,10:00AM - 11:50AM,T,208 Agricultural Engr Sciences Bld,"Tucker, C"
+23,TSM371,Residential Housing Design,37196,Lecture,AL1,11:00AM - 11:50AM,MW,208 Agricultural Engr Sciences Bld,"Tucker, C"
+24,TSM381,Grain Drying & Storage Systems,69271,Laboratory-Discussion,KR,02:00PM - 03:30PM,MW,248 Agricultural Engr Sciences Bld,"Rausch, K"
+25,TSM396,UG Honors Research or Thesis,10250,Independent Study,,ARRANGED,n.a.,n.a.,
+26,TSM421,Ag Safety-Injury Prevention,47286,Lecture-Discussion,RA2,04:00PM - 05:20PM,MW,208 Agricultural Engr Sciences Bld,"Issa, S & Rudolphi, J"
+27,TSM425,Managing Ag Safety Risk,47285,Lecture-Discussion,A,04:30PM - 07:15PM,T,248 Agricultural Engr Sciences Bld,"Issa, S & Rudolphi, J"
+28,TSM439,Capstone Experience,73132,Lecture,LEC,12:30PM - 01:50PM,TR,208 Agricultural Engr Sciences Bld,"Johnson, T"
+29,TSM439,Capstone Experience,72928,Laboratory,TJ1,11:00AM - 12:50PM,W,137 Agricultural Engr Sciences Bld,"Johnson, T"
+30,TSM439,Capstone Experience,72296,Laboratory,TJ2,09:00AM - 10:50AM,W,137 Agricultural Engr Sciences Bld,"Johnson, T"
+31,TSM464,Engine and Tractor Power,37206,Laboratory,AB2,03:00PM - 04:50PM,R,272 Agricultural Engr Sciences Bld,"Allen, C"
+32,TSM464,Engine and Tractor Power,37207,Online Lecture,AL1,09:00AM - 09:50AM,TR,n.a.,"Allen, C"
+33,TSM467,Precision Agric Technology,70803,Laboratory,LT,10:00AM - 11:50AM,R,248 Agricultural Engr Sciences Bld,"Tian, L"
+34,TSM486,Grain Bioprocessing Coproducts,50357,Lecture-Discussion,KDR,04:00PM - 05:20PM,TR,242 Agricultural Engr Sciences Bld,"Rausch, K"
+35,TSM496,Independent Study,10253,Independent Study,,ARRANGED,n.a.,n.a.,
+36,TSM586,Advanced Bioprocess Coproducts,69609,Lecture-Discussion,KDR,04:00PM - 05:20PM,TR,242 Agricultural Engr Sciences Bld,"Rausch, K"
+37,TSM594,Graduate Seminar,57675,Lecture-Discussion,A,12:00PM - 12:50PM,F,208 Agricultural Engr Sciences Bld,"Cooke, R & Guzman Jaimes, J"
+38,TSM598,Special Topics,57683,Independent Study,,ARRANGED,n.a.,n.a.,
+39,TSM598,Special Topics,73161,Laboratory,AGM,01:00PM - 02:50PM,W,208 Agricultural Engr Sciences Bld,"Green-Miller, A"
+40,TSM599,Thesis Research,58364,Independent Study,,ARRANGED,n.a.,n.a.,

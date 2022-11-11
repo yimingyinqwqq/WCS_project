@@ -1,0 +1,77 @@
+,Course,Name,CRN,Type,Section,Time,Day,Location,Instructor
+0,AE140,Aerospace Computer-Aided Design,72380,Lecture-Discussion,CA1,02:00PM - 02:50PM,TR,406B1 Engineering Hall,"Woodard, B"
+1,AE140,Aerospace Computer-Aided Design,72381,Lecture-Discussion,CA2,03:00PM - 03:50PM,TR,406B1 Engineering Hall,"Woodard, B"
+2,AE199,Undergraduate Open Seminar,10004,Independent Study,,ARRANGED,n.a.,n.a.,
+3,AE199,Undergraduate Open Seminar,65566,Discussion/ Recitation,DBF,05:00PM - 05:50PM,M,2320 Digital Computer Laboratory,"Merret, J"
+4,AE202,Aerospace Flight Mechanics,54415,Lecture-Discussion,A,01:00PM - 01:50PM,MWF,103 Talbot Laboratory,"Putnam, Z"
+5,AE298,Special Topics,62934,Discussion/ Recitation,RES,05:00PM - 05:50PM,T,3038 Campus Instructional Facility,"Waddington, E & Woodard, B"
+6,AE311,Incompressible Flow,65567,Lecture,B,01:00PM - 01:50PM,MWF,106B1 Engineering Hall,"Villafane Roca, L"
+7,AE312,Compressible Flow,29874,Lecture-Discussion,A,01:00PM - 01:50PM,MWF,3031 Campus Instructional Facility,"Panerai, F"
+8,AE321,Mechs of Aerospace Structures,65568,Lecture,B,09:00AM - 09:50AM,MWF,103 Talbot Laboratory,"Baur, J & Lambros, J"
+9,AE323,Applied Aerospace Structures,54418,Lecture-Discussion,A,09:00AM - 09:50AM,MWF,3031 Campus Instructional Facility,"Chew, H"
+10,AE352,Aerospace Dynamical Systems,65569,Lecture,BL,11:00AM - 11:50AM,MWF,1306 Everitt Laboratory,"Langbort, C"
+11,AE353,Aerospace Control Systems,29907,Lecture-Discussion,A,11:00AM - 11:50AM,MWF,4025 Campus Instructional Facility,"Bretl, T"
+12,AE370,Aerospace Numerical Methods,54470,Lecture-Discussion,A,02:00PM - 02:50PM,MWF,3031 Campus Instructional Facility,"Goza, A"
+13,AE395,Honors Project,10012,Independent Study,,ARRANGED,n.a.,n.a.,
+14,AE396,Honors Seminar,10015,Independent Study,,ARRANGED,n.a.,n.a.,
+15,AE397,Independent Study,10008,Independent Study,,ARRANGED,n.a.,n.a.,
+16,AE398,Special Topics,73429,Lecture-Discussion,BRZ,10:00AM - 11:50AM,W,1103 Siebel Center for Comp Sci,"Woodard, B"
+17,AE398,Special Topics,73430,Lecture-Discussion,SAF,ARRANGED,n.a.,Location Pending,"Gerhold, L"
+18,AE410,Computational Aerodynamics,29954,Lecture-Discussion,A,01:00PM - 02:20PM,MW,403B2 Engineering Hall,"Hagen, W"
+19,AE410,Computational Aerodynamics,62437,Online,ONL,ARRANGED,n.a.,n.a.,"Hagen, W"
+20,AE419,Aircraft Flight Mechanics,29960,Lecture-Discussion,A,12:00PM - 12:50PM,MWF,103 Talbot Laboratory,"Ansell, P"
+21,AE419,Aircraft Flight Mechanics,62436,Online,ONL,ARRANGED,n.a.,n.a.,"Ansell, P"
+22,AE420,Finite Element Analysis,37473,Lecture-Discussion,B3,12:00PM - 01:20PM,MW,4100 Sidney Lu Mech Engr Bldg,"Mercer, B"
+23,AE420,Finite Element Analysis,59677,Lecture-Discussion,B4,12:00PM - 01:20PM,MW,4100 Sidney Lu Mech Engr Bldg,"Mercer, B"
+24,AE434,Rocket Propulsion,29970,Lecture-Discussion,A,10:00AM - 11:20AM,MW,218 Ceramics Building,"Levin Fliflet, D"
+25,AE434,Rocket Propulsion,73660,Online Lecture,ONC,ARRANGED,n.a.,n.a.,"Levin Fliflet, D"
+26,AE434,Rocket Propulsion,62471,Online,ONL,ARRANGED,n.a.,n.a.,"Levin Fliflet, D"
+27,AE435,Electric Propulsion,29965,Lecture-Discussion,A,11:00AM - 12:20PM,TR,103 Talbot Laboratory,"Rovey, J"
+28,AE435,Electric Propulsion,62435,Online,ONL,ARRANGED,n.a.,n.a.,"Rovey, J"
+29,AE443,Aerospace Systems Design II,56779,Lecture-Discussion,A1,01:30PM - 03:20PM,TR,1035 Campus Instructional Facility,"Merret, J"
+30,AE443,Aerospace Systems Design II,56782,Lecture-Discussion,S1,01:30PM - 03:20PM,TR,4025 Campus Instructional Facility,"Lembeck, M"
+31,AE461,Structures & Control Lab,54459,Laboratory,AB1,08:00AM - 09:59AM,M,Location Pending,"Chasiotis, I"
+32,AE461,Structures & Control Lab,65708,Laboratory,AB2,03:30PM - 05:30PM,T,Location Pending,"Chasiotis, I"
+33,AE461,Structures & Control Lab,65709,Laboratory,AB3,08:00AM - 09:59AM,W,Location Pending,"Chasiotis, I"
+34,AE461,Structures & Control Lab,65710,Laboratory,AB4,03:00PM - 05:00PM,W,Location Pending,"Chasiotis, I"
+35,AE461,Structures & Control Lab,65711,Laboratory,AB5,05:00PM - 07:00PM,W,Location Pending,"Chasiotis, I"
+36,AE461,Structures & Control Lab,65712,Laboratory,AB6,03:30PM - 05:30PM,R,Location Pending,"Chasiotis, I"
+37,AE461,Structures & Control Lab,65713,Laboratory,AB7,05:30PM - 07:30PM,R,Location Pending,"Chasiotis, I"
+38,AE461,Structures & Control Lab,66000,Laboratory,AB8,05:30PM - 07:30PM,T,Location Pending,"Chasiotis, I"
+39,AE461,Structures & Control Lab,54458,Lecture-Discussion,AS1,10:00AM - 10:50AM,TR,2100 Sidney Lu Mech Engr Bldg,"Chasiotis, I"
+40,AE482,Introduction to Robotics,65307,Laboratory,AB1,09:00AM - 10:50AM,T,3071 Electrical & Computer Eng Bldg,
+41,AE482,Introduction to Robotics,65308,Laboratory,AB2,09:00AM - 10:50AM,R,3071 Electrical & Computer Eng Bldg,
+42,AE482,Introduction to Robotics,65309,Laboratory,AB3,02:00PM - 03:50PM,T,3071 Electrical & Computer Eng Bldg,
+43,AE482,Introduction to Robotics,65310,Laboratory,AB4,02:00PM - 03:50PM,R,3071 Electrical & Computer Eng Bldg,
+44,AE482,Introduction to Robotics,65311,Laboratory,AB5,09:00AM - 10:50AM,M,3071 Electrical & Computer Eng Bldg,
+45,AE482,Introduction to Robotics,68178,Laboratory,AB6,04:00PM - 05:50PM,T,3071 Electrical & Computer Eng Bldg,
+46,AE482,Introduction to Robotics,68181,Laboratory,AB7,04:00PM - 05:50PM,R,3071 Electrical & Computer Eng Bldg,
+47,AE482,Introduction to Robotics,65306,Lecture,AL,12:30PM - 01:50PM,TR,1015 Electrical & Computer Eng Bldg,"Kim, J"
+48,AE484,"UAV Performance, Design, and Fabrication",72384,Lecture-Discussion,A,10:00AM - 10:50AM,MWF,3101 Sidney Lu Mech Engr Bldg,"Elliott, G"
+49,AE497,Independent Study,10019,Independent Study,,ARRANGED,n.a.,n.a.,
+50,AE498,Special Topics,70882,Lecture,IHS,03:30PM - 04:50PM,TR,101 Transportation Building,"Lembeck, M"
+51,AE498,Special Topics,67976,Lecture-Discussion,SDO,10:00AM - 11:30AM,MW,114 Transportation Building,"James, K"
+52,AE498,Special Topics,68096,Online,SDP,ARRANGED,n.a.,n.a.,"James, K"
+53,AE504,Optimal Aerospace Systems,60675,Lecture,A,02:00PM - 03:20PM,MW,410C1 Engineering Hall,"Zahedi Mehr, N"
+54,AE504,Optimal Aerospace Systems,69463,Online,ONL,ARRANGED,n.a.,n.a.,"Zahedi Mehr, N"
+55,AE508,Optimal Space Trajectories,30029,Lecture-Discussion,A,11:00AM - 12:20PM,MW,410C1 Engineering Hall,"Woollands, R"
+56,AE508,Optimal Space Trajectories,64155,Online,ONL,ARRANGED,n.a.,n.a.,"Woollands, R"
+57,AE510,Advanced Gas Dynamics,65266,Lecture-Discussion,AGD,10:00AM - 11:50AM,TR,410C1 Engineering Hall,"Panesi, M"
+58,AE510,Advanced Gas Dynamics,67991,Online,ONL,ARRANGED,n.a.,n.a.,"Panesi, M"
+59,AE521,Fracture and Fatigue,73669,Lecture-Discussion,G,02:00PM - 03:20PM,MW,2015 Civil Eng Hydrosystems Lab,"Elbanna, A & Lambros, J"
+60,AE521,Fracture and Fatigue,73670,Online,ONL,ARRANGED,n.a.,n.a.,"Elbanna, A & Lambros, J"
+61,AE538,Combustion Fundamentals,30049,Lecture-Discussion,A,03:00PM - 04:50PM,TR,403B2 Engineering Hall,"Glumac, N"
+62,AE538,Combustion Fundamentals,68134,Online,ONL,ARRANGED,n.a.,n.a.,"Glumac, N"
+63,AE543,Aerospace Syst Engineering II,58432,Lecture,AS2,09:00AM - 10:20AM,TR,403B2 Engineering Hall,"Merret, J"
+64,AE543,Aerospace Syst Engineering II,62541,Online,ONL,ARRANGED,n.a.,n.a.,"Merret, J"
+65,AE550,Nonlinear Aeroelasticity,56808,Lecture-Discussion,A,08:00AM - 09:20AM,TR,103 Talbot Laboratory,"Hilton, H"
+66,AE550,Nonlinear Aeroelasticity,64130,Online,ONL,ARRANGED,n.a.,n.a.,"Hilton, H"
+67,AE554,Dynamical Systems Theory,30056,Lecture-Discussion,A,02:00PM - 03:20PM,MW,112 Transportation Building,"Eggl, S"
+68,AE554,Dynamical Systems Theory,62445,Online,ONL,ARRANGED,n.a.,n.a.,"Eggl, S"
+69,AE590,Seminar,30062,Conference,A,04:00PM - 04:50PM,M,2035 Campus Instructional Facility,"Russell, J"
+70,AE590,Seminar,69196,Online,AO,ARRANGED,n.a.,n.a.,"Russell, J"
+71,AE590,Seminar,62385,Online,ONL,ARRANGED,n.a.,n.a.,"Russell, J"
+72,AE597,Independent Study,10021,Independent Study,,ARRANGED,n.a.,n.a.,
+73,AE598,Special Topics,56934,Lecture-Discussion,AAO,01:00PM - 02:20PM,TR,3018 Campus Instructional Facility,"Ornik, M"
+74,AE598,Special Topics,42106,Lecture-Discussion,PE2,03:30PM - 05:00PM,F,0036 Campus Instructional Facility,"Putnam, Z"
+75,AE599,Thesis Research,10024,Independent Study,,ARRANGED,n.a.,n.a.,

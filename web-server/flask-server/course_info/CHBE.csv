@@ -1,0 +1,54 @@
+,Course,Name,CRN,Type,Section,Time,Day,Location,Instructor
+0,CHBE121,CHBE Profession,31770,Lecture-Discussion,A,02:00PM - 02:50PM,M,2035 Campus Instructional Facility,"Kenis, P & Monye, U"
+1,CHBE199,Undergraduate Open Seminar,10480,Independent Study,,ARRANGED,n.a.,n.a.,
+2,CHBE202,Cooperative Education Practice,32570,Practice,A,ARRANGED,n.a.,Location Pending,"Simpson, P"
+3,CHBE210,CHBE Internship,31771,Discussion/ Recitation,1,ARRANGED,n.a.,Location Pending,"Simpson, P"
+4,CHBE221,Principles of CHE,60171,Lecture,A,12:00PM - 12:50PM,MWF,161 Noyes Laboratory,"Hammack, W"
+5,CHBE297,Individual Study Sophomores,48919,Independent Study,,ARRANGED,n.a.,n.a.,
+6,CHBE321,Thermodynamics,31773,Discussion/ Recitation,AD1,12:00PM - 12:50PM,F,327 Gregory Hall,"Mironenko, A"
+7,CHBE321,Thermodynamics,31774,Discussion/ Recitation,AD2,01:00PM - 01:50PM,F,345 Altgeld Hall,"Mironenko, A"
+8,CHBE321,Thermodynamics,53751,Discussion/ Recitation,AD4,12:00PM - 12:50PM,F,345 Altgeld Hall,"Mironenko, A"
+9,CHBE321,Thermodynamics,32027,Lecture,AL1,11:00AM - 12:20PM,TR,116 Roger Adams Laboratory,"Mironenko, A"
+10,CHBE397,Individual Study for Juniors,48921,Independent Study,,ARRANGED,n.a.,n.a.,
+11,CHBE421,Momentum and Heat Transfer,60296,Discussion/ Recitation,AD1,01:00PM - 01:50PM,F,162 Noyes Laboratory,"Higdon, J"
+12,CHBE421,Momentum and Heat Transfer,60297,Discussion/ Recitation,AD2,12:00PM - 12:50PM,F,162 Noyes Laboratory,"Higdon, J"
+13,CHBE421,Momentum and Heat Transfer,60295,Lecture,AL1,09:30AM - 10:50AM,TR,217 Noyes Laboratory,"Higdon, J"
+14,CHBE422,Mass Transfer Operations,32028,Discussion/ Recitation,AD1,01:00PM - 01:50PM,F,163 Noyes Laboratory,"Guironnet, D"
+15,CHBE422,Mass Transfer Operations,32029,Discussion/ Recitation,AD2,12:00PM - 12:50PM,F,163 Noyes Laboratory,"Guironnet, D"
+16,CHBE422,Mass Transfer Operations,32031,Discussion/ Recitation,AD3,12:00PM - 12:50PM,F,1064 Lincoln Hall,"Guironnet, D"
+17,CHBE422,Mass Transfer Operations,32030,Discussion/ Recitation,AD4,12:00PM - 12:50PM,F,140 Henry Administration Bldg,"Guironnet, D"
+18,CHBE422,Mass Transfer Operations,32032,Lecture,AL1,11:00AM - 11:50AM,MWF,116 Roger Adams Laboratory,"Guironnet, D"
+19,CHBE424,Chemical Reaction Engineering,32041,Lecture,A,09:00AM - 09:50AM,MWF,116 Roger Adams Laboratory,"Zhao, H"
+20,CHBE430,Unit Operations Laboratory,32034,Laboratory,AB1,01:00PM - 05:50PM,M,8 Roger Adams Laboratory,"Leicht, J & Monye, U"
+21,CHBE430,Unit Operations Laboratory,32036,Laboratory,AB2,01:00PM - 05:50PM,T,8 Roger Adams Laboratory,"Leicht, J & Monye, U"
+22,CHBE430,Unit Operations Laboratory,32038,Laboratory,AB3,01:00PM - 05:50PM,W,8 Roger Adams Laboratory,"Leicht, J & Monye, U"
+23,CHBE430,Unit Operations Laboratory,55846,Laboratory,AB4,01:00PM - 05:50PM,R,8 Roger Adams Laboratory,"Leicht, J & Monye, U"
+24,CHBE430,Unit Operations Laboratory,32037,Lecture,AL1,03:00PM - 03:50PM,F,116 Roger Adams Laboratory,"Leicht, J & Monye, U"
+25,CHBE431,Process Design,63454,Discussion/ Recitation,AD1,03:00PM - 03:50PM,M,140 Henry Administration Bldg,"Floess, j"
+26,CHBE431,Process Design,63487,Discussion/ Recitation,AD2,03:00PM - 03:50PM,M,143 Henry Administration Bldg,"Floess, j"
+27,CHBE431,Process Design,63488,Discussion/ Recitation,AD3,03:00PM - 03:50PM,M,137 Henry Administration Bldg,"Floess, j"
+28,CHBE431,Process Design,58879,Lecture,AL1,01:00PM - 01:50PM,MWF,116 Roger Adams Laboratory,"Bansal, P & Chang, R & Cotty, S & Floess, j & Harrison, W & Khasbaatar, A & Thompson, G"
+29,CHBE440,Process Control and Dynamics,61790,Lecture,A,10:00AM - 10:50AM,MWF,161 Noyes Laboratory,"Sing, C"
+30,CHBE458,Synthetic Nanomaterials,71942,Lecture,HY2,09:30AM - 10:50AM,TR,106B3 Engineering Hall,"Yang, H"
+31,CHBE475,Tissue Engineering,59699,Lecture,BAH,09:00AM - 09:50AM,MWF,3025 Campus Instructional Facility,"Harley, B"
+32,CHBE476,Biotransport,61795,Lecture,HJK,11:00AM - 12:20PM,TR,1024 Chemistry Annex,"Kong, H"
+33,CHBE494,Special Topics,70492,Lecture,CPS,02:00PM - 02:50PM,MWF,140 Burrill Hall,"Floess, j"
+34,CHBE494,Special Topics,69169,Lecture,CVR,11:00AM - 12:20PM,TR,122 1203 1/2 W Nevada,"Rao, C"
+35,CHBE494,Special Topics,45003,Lecture,SAR,11:00AM - 12:20PM,TR,163 Noyes Laboratory,"Rogers, S"
+36,CHBE494,Special Topics,68623,Lecture,ST,11:00AM - 12:20PM,TR,157 Noyes Laboratory,"Peters, B"
+37,CHBE497,Individual Study for Seniors,45094,Independent Study,,ARRANGED,n.a.,n.a.,
+38,CHBE499,Senior Thesis,10482,Independent Study,,ARRANGED,n.a.,n.a.,
+39,CHBE510,Graduate CHBE Internship,68619,Internship,A,ARRANGED,n.a.,Location Pending,"Simpson, P"
+40,CHBE523,Heat and Mass Transfer,32132,Lecture,A,09:30AM - 10:50AM,TR,163 Noyes Laboratory,"Shukla, D"
+41,CHBE551,Chemical Kinetics & Catalysis,39060,Lecture,A,11:00AM - 11:50AM,MWF,163 Noyes Laboratory,"Flaherty, D"
+42,CHBE565,CHBE Seminar,32047,Lecture-Discussion,A,02:00PM - 03:20PM,TR,116 Roger Adams Laboratory,"Kenis, P & Su, X"
+43,CHBE571,Bioinformatics,61909,Lecture-Discussion,A1,09:30AM - 10:50AM,TR,157 Noyes Laboratory,"Zhao, S"
+44,CHBE593,Individual Study,10484,Independent Study,,ARRANGED,n.a.,n.a.,
+45,CHBE594,Special Topics,66636,Lecture,BAH,09:00AM - 09:50AM,MWF,3025 Campus Instructional Facility,"Harley, B"
+46,CHBE594,Special Topics,69170,Lecture,CVR,11:00AM - 12:20PM,TR,122 1203 1/2 W Nevada,"Rao, C"
+47,CHBE594,Special Topics,32049,Lecture,HJK,11:00AM - 12:20PM,TR,1024 Chemistry Annex,"Kong, H"
+48,CHBE594,Special Topics,71943,Lecture,HY2,09:30AM - 10:50AM,TR,106B3 Engineering Hall,"Yang, H"
+49,CHBE594,Special Topics,32050,Lecture,SAR,11:00AM - 12:20PM,TR,163 Noyes Laboratory,"Rogers, S"
+50,CHBE597,Special Problems,10498,Independent Study,,ARRANGED,n.a.,n.a.,
+51,CHBE598,Research Seminar,10501,Independent Study,,ARRANGED,n.a.,n.a.,
+52,CHBE599,Thesis Research,10503,Independent Study,,ARRANGED,n.a.,n.a.,

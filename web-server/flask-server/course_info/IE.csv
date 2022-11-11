@@ -1,0 +1,51 @@
+,Course,Name,CRN,Type,Section,Time,Day,Location,Instructor
+0,IE199,Undergraduate Open Seminar,10438,Independent Study,,ARRANGED,n.a.,n.a.,
+1,IE300,Analysis of Data,50981,Discussion/ Recitation,AD1,05:00PM - 05:50PM,M,L440 Digital Computer Laboratory,
+2,IE300,Analysis of Data,50983,Discussion/ Recitation,AD2,05:00PM - 05:50PM,T,L440 Digital Computer Laboratory,
+3,IE300,Analysis of Data,50985,Discussion/ Recitation,AD3,05:00PM - 05:50PM,W,L440 Digital Computer Laboratory,
+4,IE300,Analysis of Data,50987,Discussion/ Recitation,AD4,05:00PM - 05:50PM,R,L440 Digital Computer Laboratory,
+5,IE300,Analysis of Data,34259,Lecture,AL1,03:30PM - 04:50PM,TR,112 Transportation Building,"King, D"
+6,IE300,Analysis of Data,62804,Discussion/ Recitation,BD1,11:00AM - 11:50AM,M,L440 Digital Computer Laboratory,
+7,IE300,Analysis of Data,62805,Discussion/ Recitation,BD2,03:00PM - 03:50PM,T,1001 Mechanical Engineering Lab,
+8,IE300,Analysis of Data,62806,Discussion/ Recitation,BD3,09:00AM - 09:50AM,W,L440 Digital Computer Laboratory,
+9,IE300,Analysis of Data,62807,Discussion/ Recitation,BD4,10:00AM - 10:50AM,R,L440 Digital Computer Laboratory,
+10,IE300,Analysis of Data,62803,Lecture,BL1,10:00AM - 10:50AM,MWF,112 Transportation Building,"Vogiatzis, C"
+11,IE310,Deterministic Models in Optimization,54715,Lecture-Discussion,R,12:30PM - 01:50PM,TR,103 Transportation Building,"Chandrasekaran, K"
+12,IE330,Industrial Quality Control,34260,Lecture-Discussion,D,09:30AM - 10:50AM,TR,101 Transportation Building,"King, D"
+13,IE340,Human Factors,37233,Laboratory,AB1,09:00AM - 09:50AM,R,3101 Sidney Lu Mech Engr Bldg,
+14,IE340,Human Factors,37234,Laboratory,AB2,10:00AM - 10:50AM,R,3101 Sidney Lu Mech Engr Bldg,
+15,IE340,Human Factors,37235,Laboratory,AB3,11:00AM - 11:50AM,R,3101 Sidney Lu Mech Engr Bldg,
+16,IE340,Human Factors,73239,Laboratory,AB4,12:00PM - 12:50PM,R,3101 Sidney Lu Mech Engr Bldg,"Wooldridge, A"
+17,IE340,Human Factors,37236,Lecture,AL1,02:00PM - 03:20PM,MW,4029 Campus Instructional Facility,"Wooldridge, A"
+18,IE361,Production Planning & Control,53250,Laboratory,AB1,01:00PM - 01:50PM,F,316 Transportation Building,
+19,IE361,Production Planning & Control,53268,Laboratory,AB2,02:00PM - 02:50PM,F,316 Transportation Building,
+20,IE361,Production Planning & Control,62717,Laboratory,AB3,03:00PM - 03:50PM,F,316 Transportation Building,
+21,IE361,Production Planning & Control,69626,Laboratory,AB4,12:00PM - 12:50PM,F,316 Transportation Building,
+22,IE361,Production Planning & Control,34265,Lecture-Discussion,AL,01:00PM - 01:50PM,MW,112 Transportation Building,"Wang, Q"
+23,IE370,Stochastic Processes and Applications,66991,Lecture,SP,05:00PM - 06:20PM,TR,103 Transportation Building,"Stolyar, A"
+24,IE397,Independent Study,64063,Independent Study,,ARRANGED,n.a.,n.a.,
+25,IE398,Special Topics,70559,Lecture-Discussion,CV,02:00PM - 03:20PM,TR,2100 Sidney Lu Mech Engr Bldg,"Vogiatzis, C"
+26,IE413,Simulation,53236,Laboratory,AB1,04:00PM - 04:50PM,W,1320 Digital Computer Laboratory,
+27,IE413,Simulation,43422,Lecture-Discussion,AE3,03:00PM - 03:50PM,W,1320 Digital Computer Laboratory,"Jacobson, S"
+28,IE413,Simulation,43424,Lecture-Discussion,AE4,03:00PM - 03:50PM,W,1320 Digital Computer Laboratory,"Jacobson, S"
+29,IE420,Financial Engineering,58926,Lecture-Discussion,G,08:00AM - 09:20AM,MW,3041 Business Instructional Fac,"Pearson, N"
+30,IE420,Financial Engineering,58927,Lecture-Discussion,U,08:00AM - 09:20AM,MW,3041 Business Instructional Fac,"Pearson, N"
+31,IE497,Independent Study,10441,Independent Study,,ARRANGED,n.a.,n.a.,
+32,IE498,Special Topics,70964,Online Lecture,HFT,06:30PM - 09:30PM,R,n.a.,"Lariviere, D"
+33,IE510,Applied Nonlinear Programming,62145,Lecture-Discussion,G,02:00PM - 03:20PM,TR,112 Transportation Building,"Sun, R"
+34,IE510,Applied Nonlinear Programming,70661,Online,ONL,ARRANGED,n.a.,n.a.,"Sun, R"
+35,IE511,Integer Programming,34285,Lecture-Discussion,L,09:30AM - 10:50AM,TR,112 Transportation Building,"Etesami, S"
+36,IE516,Pricing and Revenue Management,72451,Lecture-Discussion,A,05:00PM - 07:50PM,W,206 Transportation Building,"Chen, X"
+37,IE519,Combinatorial Optimization,70395,Lecture,A,11:00AM - 12:20PM,TR,0216 Siebel Center for Comp Sci,"Chekuri, C"
+38,IE525,Stochastic Calculus & Numerical Models in Finance,54714,Lecture-Discussion,A,01:00PM - 02:40PM,MW,101 Transportation Building,"Sowers, R"
+39,IE525,Stochastic Calculus & Numerical Models in Finance,73216,Lecture-Discussion,B,01:00PM - 02:40PM,MW,101 Transportation Building,"Nick Zinat Matin, H"
+40,IE531,Algorithms for Data Analytics,65476,Lecture,AD,03:30PM - 04:50PM,TR,218 Ceramics Building,"Sreenivas, R"
+41,IE531,Algorithms for Data Analytics,67012,Online,B,ARRANGED,n.a.,n.a.,"Sreenivas, R"
+42,IE533,Big Graphs and Social Networks,73530,Lecture-Discussion,A,12:30PM - 01:50PM,TR,1131 Siebel Center for Comp Sci,"Nagi, R"
+43,IE533,Big Graphs and Social Networks,73535,Online,AO,ARRANGED,n.a.,n.a.,"Nagi, R"
+44,IE590,Seminar,69440,Online,ONL,10:00AM - 10:50AM,F,n.a.,"Etesami, S & Redman, L"
+45,IE590,Seminar,34286,Online Lecture,Z,10:00AM - 10:50AM,F,n.a.,"Etesami, S & Redman, L"
+46,IE597,Independent Study,10445,Independent Study,,ARRANGED,n.a.,n.a.,
+47,IE598,Special Topics,73412,Online Lecture,CSQ,06:00PM - 09:00PM,W,n.a.,"Lariviere, D"
+48,IE598,Special Topics,70691,Lecture-Discussion,JG,03:30PM - 04:50PM,TR,3038 Campus Instructional Facility,"Garg, J"
+49,IE599,Thesis Research,10447,Independent Study,,ARRANGED,n.a.,n.a.,

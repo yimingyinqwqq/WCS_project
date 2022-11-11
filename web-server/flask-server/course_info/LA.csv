@@ -1,0 +1,73 @@
+,Course,Name,CRN,Type,Section,Time,Day,Location,Instructor
+0,LA199,First-Year Seminar,10486,Independent Study,,ARRANGED,n.a.,n.a.,
+1,LA221,History of the Prison,64179,Lecture,RG,11:00AM - 12:20PM,MW,2 Education Building,"Ginsburg, R & Nyankalwa, M & Scarborough, A"
+2,LA222,Islamic Gardens & Architecture,73056,Lecture-Discussion,A1,09:30AM - 10:20AM,R,102B Architecture Building,
+3,LA222,Islamic Gardens & Architecture,73059,Lecture-Discussion,B1,10:30AM - 11:20AM,R,102B Architecture Building,
+4,LA222,Islamic Gardens & Architecture,73062,Lecture-Discussion,C1,09:30AM - 10:20AM,F,215 David Kinley Hall,
+5,LA222,Islamic Gardens & Architecture,73065,Lecture-Discussion,D1,10:30AM - 11:20AM,F,317 David Kinley Hall,
+6,LA222,Islamic Gardens & Architecture,64180,Online Lecture,DFR,ARRANGED,n.a.,n.a.,"Ruggles, D"
+7,LA234,Site Design Studio,35292,Laboratory-Discussion,A,02:00PM - 04:50PM,MWF,200 Mumford Hall,
+8,LA242,Nature and American Culture,61461,Online,ONA,ARRANGED,n.a.,n.a.,"Jeong, W & Kaczorowski, J & Santos, C"
+9,LA242,Nature and American Culture,61464,Online,ONB,ARRANGED,n.a.,n.a.,"Jeong, W & Kaczorowski, J & Santos, C"
+10,LA250,Environmental Site Analysis,73089,Laboratory,JH,02:00PM - 04:50PM,TR,200 Mumford Hall,"Hu, J & Lai, S"
+11,LA281,Design Communications II,35298,Online,M1,09:00AM - 11:50AM,MW,n.a.,"Clark, J & Lee, d"
+12,LA301,Senior Honors,10487,Independent Study,,ARRANGED,n.a.,n.a.,
+13,LA314,History of World Landscapes,64527,Lecture-Discussion,A,09:30AM - 10:20AM,R,170 Wohlers Hall,"Kletzing, D"
+14,LA314,History of World Landscapes,64528,Lecture-Discussion,B,10:30AM - 11:20AM,R,170 Wohlers Hall,"Kletzing, D"
+15,LA314,History of World Landscapes,64529,Lecture-Discussion,C,02:30PM - 03:20PM,R,102B Architecture Building,"Champagne, A"
+16,LA314,History of World Landscapes,64530,Lecture-Discussion,D,03:30PM - 04:20PM,R,102B Architecture Building,"Champagne, A"
+17,LA314,History of World Landscapes,69401,Lecture-Discussion,E,04:30PM - 05:20PM,R,102B Architecture Building,"Champagne, A"
+18,LA314,History of World Landscapes,73591,Lecture-Discussion,F,09:30AM - 10:20AM,R,18 Temple Hoyne Buell Hall,"Rhee, P"
+19,LA314,History of World Landscapes,73592,Lecture-Discussion,G,03:30PM - 04:20PM,R,170 Wohlers Hall,"Kletzing, D"
+20,LA314,History of World Landscapes,64454,Online Lecture,LC,ARRANGED,n.a.,n.a.,"Rhee, P"
+21,LA336,Design Workshop Studio I,35305,Laboratory-Discussion,BM,02:00PM - 05:50PM,MW,219 Temple Hoyne Buell Hall,"Moen, B"
+22,LA336,Design Workshop Studio I,35307,Laboratory-Discussion,CO,02:00PM - 04:50PM,MWF,319 Temple Hoyne Buell Hall,"O'Shea, C"
+23,LA336,Design Workshop Studio I,35306,Laboratory-Discussion,JC,02:00PM - 04:50PM,MWF,327 Temple Hoyne Buell Hall,"Clark, J"
+24,LA336,Design Workshop Studio I,73407,Laboratory-Discussion,JH,02:00PM - 04:50PM,MWF,319 Temple Hoyne Buell Hall,"Hu, J"
+25,LA336,Design Workshop Studio I,39843,Laboratory-Discussion,KL,02:00PM - 04:50PM,MWF,327 Temple Hoyne Buell Hall,"Lemon, K"
+26,LA343,Landscape Construction,35308,Laboratory-Discussion,A,09:00AM - 11:50AM,F,325 Temple Hoyne Buell Hall,"Isyanamanova, A & Littleton, P"
+27,LA345,Professional Internship,35309,Conference,A,ARRANGED,n.a.,Location Pending,
+28,LA387,Undergraduate Seminar,73212,Seminar,A,09:00AM - 11:50AM,F,312 Art and Design Building,"Jones, C & McGuire, M"
+29,LA387,Undergraduate Seminar,73469,Seminar,DH,12:30PM - 01:50PM,TR,18 Temple Hoyne Buell Hall,"Hays, D"
+30,LA390,Independent Study I,10488,Independent Study,,ARRANGED,n.a.,n.a.,
+31,LA390,Independent Study I,21006,Lecture,BD2,09:30AM - 10:50AM,TR,101F Temple Hoyne Buell Hall,"Deal, B"
+32,LA430,Children and Nature,68726,Online Lecture Discussion,OLP,07:00PM - 08:30PM,W,n.a.,"Taylor, A"
+33,LA430,Children and Nature,60694,Online Lecture Discussion,ONL,07:00PM - 08:30PM,W,n.a.,"Taylor, A"
+34,LA434,Graduate Site Design Studio,73088,Laboratory-Discussion,A,02:00PM - 04:50PM,MWF,200 Mumford Hall,
+35,LA438,Design Workshop Studio II,57634,Laboratory-Discussion,BM,02:00PM - 05:50PM,MW,219 Temple Hoyne Buell Hall,"Moen, B"
+36,LA438,Design Workshop Studio II,73687,Laboratory,C,01:00PM - 05:50PM,MW,ARR Chicago IL,"Altshuler, J"
+37,LA438,Design Workshop Studio II,69245,Laboratory-Discussion,CO,02:00PM - 04:50PM,MWF,319 Temple Hoyne Buell Hall,"O'Shea, C"
+38,LA438,Design Workshop Studio II,73446,Laboratory,E1,01:00PM - 05:50PM,MWF,311 Temple Hoyne Buell Hall,"Bartumeus Ferre, S"
+39,LA438,Design Workshop Studio II,69244,Laboratory-Discussion,JC,02:00PM - 04:50PM,MWF,327 Temple Hoyne Buell Hall,"Clark, J"
+40,LA438,Design Workshop Studio II,73406,Laboratory-Discussion,JH,02:00PM - 04:50PM,MWF,319 Temple Hoyne Buell Hall,"Hu, J"
+41,LA438,Design Workshop Studio II,69246,Laboratory-Discussion,KL,02:00PM - 04:50PM,MWF,327 Temple Hoyne Buell Hall,"Lemon, K"
+42,LA446,Sustainable Planning Seminar,67977,Lecture,BD,02:00PM - 03:20PM,TR,226 Wohlers Hall,"Deal, B & Mosey, G"
+43,LA466,Energy & the Built Environment,69425,Lecture-Discussion,HA,09:00AM - 11:50AM,T,325 Temple Hoyne Buell Hall,"Deal, B & Larsen, L"
+44,LA480,Sustainable Design Principles,66213,Online,BD,ARRANGED,n.a.,n.a.,"Deal, B"
+45,LA513,History of World Landscapes,64525,Lecture-Discussion,A,02:30PM - 03:20PM,R,325 Temple Hoyne Buell Hall,
+46,LA513,History of World Landscapes,64456,Online Lecture,LC,ARRANGED,n.a.,n.a.,"Rhee, P"
+47,LA534,Design Workshop G-I,73404,Laboratory-Discussion,BM,02:00PM - 05:50PM,MW,219 Temple Hoyne Buell Hall,"Moen, B"
+48,LA534,Design Workshop G-I,73100,Laboratory-Discussion,CO,02:00PM - 04:50PM,MWF,319 Temple Hoyne Buell Hall,"O'Shea, C"
+49,LA534,Design Workshop G-I,73447,Laboratory,E1,01:00PM - 05:50PM,MWF,311 Temple Hoyne Buell Hall,"Bartumeus Ferre, S"
+50,LA534,Design Workshop G-I,73096,Laboratory-Discussion,JC,02:00PM - 04:50PM,MWF,327 Temple Hoyne Buell Hall,"Clark, J"
+51,LA534,Design Workshop G-I,73408,Laboratory-Discussion,JH,02:00PM - 04:50PM,MWF,319 Temple Hoyne Buell Hall,"Hu, J"
+52,LA534,Design Workshop G-I,73098,Laboratory-Discussion,KL,02:00PM - 04:50PM,MWF,327 Temple Hoyne Buell Hall,"Lemon, K"
+53,LA538,Urban Design Research Studio,73411,Laboratory-Discussion,JH,02:00PM - 04:50PM,MWF,319 Temple Hoyne Buell Hall,"Hu, J"
+54,LA539,Design Workshop G-II,73405,Laboratory-Discussion,BM,02:00PM - 05:50PM,MW,219 Temple Hoyne Buell Hall,"Moen, B"
+55,LA539,Design Workshop G-II,73688,Laboratory,C,01:00PM - 05:50PM,MW,ARR Chicago IL,"Altshuler, J"
+56,LA539,Design Workshop G-II,73101,Laboratory-Discussion,CO,02:00PM - 04:50PM,MWF,319 Temple Hoyne Buell Hall,"O'Shea, C"
+57,LA539,Design Workshop G-II,73448,Laboratory,E1,01:00PM - 05:50PM,MWF,311 Temple Hoyne Buell Hall,"Bartumeus Ferre, S"
+58,LA539,Design Workshop G-II,73097,Laboratory-Discussion,JC,02:00PM - 04:50PM,MWF,327 Temple Hoyne Buell Hall,"Clark, J"
+59,LA539,Design Workshop G-II,73410,Laboratory-Discussion,JH,02:00PM - 04:50PM,MWF,319 Temple Hoyne Buell Hall,"Hu, J"
+60,LA539,Design Workshop G-II,73099,Laboratory-Discussion,KL,02:00PM - 04:50PM,MWF,327 Temple Hoyne Buell Hall,"Lemon, K"
+61,LA587,Graduate Seminar,65000,Seminar,C,09:00AM - 11:50AM,F,312 Art and Design Building,"Jones, C & McGuire, M"
+62,LA587,Graduate Seminar,46648,Seminar,DH,12:30PM - 01:50PM,TR,18 Temple Hoyne Buell Hall,"Hays, D"
+63,LA590,Directed Research,10489,Independent Study,,ARRANGED,n.a.,n.a.,
+64,LA590,Directed Research,69770,Lecture,BD2,09:30AM - 10:50AM,TR,101F Temple Hoyne Buell Hall,"Deal, B"
+65,LA590,Directed Research,21028,Independent Study,RG,11:00AM - 12:20PM,MW,n.a.,"Ginsburg, R"
+66,LA590,Directed Research,40701,Lecture-Discussion,RG1,11:00AM - 12:20PM,MW,Location Pending,"Ginsburg, R"
+67,LA593,Islamic & S Asian Landscapes,47442,Lecture,A,12:30PM - 01:50PM,TR,101F Temple Hoyne Buell Hall,"Ruggles, D"
+68,LA597,Research Design & Methods,64182,Lecture,CO,11:00AM - 12:20PM,MW,325 Temple Hoyne Buell Hall,"O'Shea, C"
+69,LA598,Master's Project,10490,Independent Study,,ARRANGED,n.a.,n.a.,
+70,LA599,Thesis Research,10491,Independent Study,,ARRANGED,n.a.,n.a.,
+71,LA599,Thesis Research,35340,Independent Study,A,ARRANGED,n.a.,n.a.,"Dharwadker, A"

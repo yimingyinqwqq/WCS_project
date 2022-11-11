@@ -1,0 +1,53 @@
+,Course,Name,CRN,Type,Section,Time,Day,Location,Instructor
+0,GEOL100,Planet Earth,33391,Discussion/ Recitation,ADA,11:00AM - 11:50AM,M,219 Davenport Hall,"Johnson, T & Long, A"
+1,GEOL100,Planet Earth,33394,Discussion/ Recitation,ADB,01:00PM - 01:50PM,M,219 Davenport Hall,"Dendy, S & Johnson, T & Long, A"
+2,GEOL100,Planet Earth,33397,Discussion/ Recitation,ADD,11:00AM - 11:50AM,T,219 Davenport Hall,"Dendy, S & Johnson, T & Long, A"
+3,GEOL100,Planet Earth,33401,Discussion/ Recitation,ADF,01:00PM - 01:50PM,T,219 Davenport Hall,"Cao, Z & Johnson, T & Long, A"
+4,GEOL100,Planet Earth,33403,Discussion/ Recitation,ADG,02:00PM - 02:50PM,T,219 Davenport Hall,"Cao, Z & Johnson, T & Long, A"
+5,GEOL100,Planet Earth,33389,Lecture,AL2,12:00PM - 12:50PM,MW,0035 Campus Instructional Facility,"Johnson, T"
+6,GEOL107,Physical Geology,56950,Lecture,AL1,11:00AM - 11:50AM,MWF,3031 Campus Instructional Facility,"Guenthner, W"
+7,GEOL107,Physical Geology,56952,Laboratory-Discussion,AY1,01:00PM - 02:50PM,W,219 Davenport Hall,"Guenthner, W & Long, A"
+8,GEOL107,Physical Geology,56953,Laboratory-Discussion,AY2,10:00AM - 11:50AM,R,219 Davenport Hall,"Guenthner, W & Long, A & Xiao, H"
+9,GEOL107,Physical Geology,56954,Laboratory-Discussion,AY3,12:00PM - 01:50PM,R,219 Davenport Hall,"Guenthner, W & Long, A & Xiao, H"
+10,GEOL107,Physical Geology,56956,Laboratory-Discussion,AY5,02:00PM - 03:50PM,R,219 Davenport Hall,"Guenthner, W & Long, A"
+11,GEOL107,Physical Geology,56957,Laboratory-Discussion,AY6,09:00AM - 10:50AM,F,219 Davenport Hall,"Guenthner, W & Long, A & Veldhuizen, H"
+12,GEOL107,Physical Geology,56958,Laboratory-Discussion,AY7,01:00PM - 02:50PM,F,219 Davenport Hall,"Guenthner, W & Long, A & Veldhuizen, H"
+13,GEOL111,Emergence of Life,61954,Online,A,ARRANGED,n.a.,n.a.,"Chen, M & Cole, T & Li, Y & Peng, L"
+14,GEOL118,Natural Disasters,46622,Lecture,A,11:00AM - 11:50AM,MWF,2079 Natural History Building,"Christie, M & Dendy, S"
+15,GEOL199,Undergraduate Open Seminar,10244,Independent Study,,ARRANGED,n.a.,n.a.,
+16,GEOL208,History of the Earth System,49201,Laboratory,AB1,10:00AM - 11:50AM,R,220 Davenport Hall,"Stewart, M & Todorov, L"
+17,GEOL208,History of the Earth System,49202,Laboratory,AB2,01:00PM - 02:50PM,R,220 Davenport Hall,"Stewart, M & Todorov, L"
+18,GEOL208,History of the Earth System,49203,Lecture,AL1,12:00PM - 12:50PM,MWF,122 Davenport Hall,"Stewart, M"
+19,GEOL333,Earth Materials and the Env,33535,Laboratory,AB1,01:00PM - 02:50PM,T,1022 Natural History Building,"Altaner, S & Margason, A"
+20,GEOL333,Earth Materials and the Env,33536,Lecture,AL1,10:00AM - 10:50AM,MWF,122 Davenport Hall,"Altaner, S"
+21,GEOL370,"Water Planet, Water Crisis",58560,Lecture,AL1,11:00AM - 12:20PM,TR,2020A Natural History Building,"Sivapalan, M"
+22,GEOL380,Environmental Geology,33537,Laboratory,AB1,03:00PM - 05:20PM,M,122 Davenport Hall,"Altaner, S & Cao, Z"
+23,GEOL380,Environmental Geology,33538,Lecture,AL1,02:00PM - 02:50PM,MWF,122 Davenport Hall,"Altaner, S"
+24,GEOL390,Individual Study,10245,Independent Study,,ARRANGED,n.a.,n.a.,
+25,GEOL391,Individual Honors Study,10248,Independent Study,,ARRANGED,n.a.,n.a.,
+26,GEOL415,Field Geology,40637,"Lecture-Discussion<br/><i><span class=""app-text-value"">Meets 01/18/22-05/04/22</span></i>",A,04:00PM - 05:50PM,M,1071 Natural History Building,"Anders, A & Christie, M & Stewart, M"
+27,GEOL436,Petrology and Petrography,33542,Laboratory,AB1,09:00AM - 11:50AM,M,1022 Natural History Building,"Bruckel, K & Li, Y & Lundstrom, C"
+28,GEOL436,Petrology and Petrography,62124,Laboratory,AB2,01:00PM - 03:50PM,M,1022 Natural History Building,"Bruckel, K & Li, Y & Lundstrom, C"
+29,GEOL436,Petrology and Petrography,33543,Lecture,AL1,09:30AM - 10:50AM,R,2084 Natural History Building,"Lundstrom, C"
+30,GEOL440,Sedimentology and Stratigraphy,33544,Laboratory,AB1,10:00AM - 11:50AM,R,1022 Natural History Building,"Best, J & Christie, M & Sanchez, A"
+31,GEOL440,Sedimentology and Stratigraphy,33545,Laboratory,AB2,01:00PM - 02:50PM,R,1022 Natural History Building,"Best, J & Christie, M & Sanchez, A"
+32,GEOL440,Sedimentology and Stratigraphy,33546,Lecture,AL1,09:00AM - 09:50AM,MWF,2020B Natural History Building,"Best, J & Christie, M"
+33,GEOL450,Investigating the Earth’s Interior,47979,Online,AL1,ARRANGED,n.a.,n.a.,"Gregg, T"
+34,GEOL454,Introduction to Seismology,38909,Online,B,ARRANGED,n.a.,n.a.,"Barklage, M"
+35,GEOL483,Challenges of Sustainability,53492,Lecture,A,09:30AM - 10:50AM,TR,132 Davenport Hall,"Brown, C"
+36,GEOL484,Paleoclimatology,73159,Lecture-Discussion,A,02:00PM - 03:20PM,TR,2020B Natural History Building,"Conroy, J"
+37,GEOL490,Undergraduate Research,64536,Independent Study,,ARRANGED,n.a.,n.a.,
+38,GEOL491,Honors Undergraduate Research,64085,Independent Study,,ARRANGED,n.a.,n.a.,
+39,GEOL492,Senior Thesis,10249,Independent Study,,ARRANGED,n.a.,n.a.,
+40,GEOL493,Honors Senior Thesis,10252,Independent Study,,ARRANGED,n.a.,n.a.,
+41,GEOL497,Special Topics in Geology,63452,Lecture-Discussion,C,11:00AM - 12:50PM,TR,121 Davenport Hall,"Christie, M"
+42,GEOL515,Advanced Field Geology,33551,"Lecture-Discussion<br/><i><span class=""app-text-value"">Meets 01/18/22-05/04/22</span></i>",A,04:00PM - 05:50PM,M,1071 Natural History Building,"Anders, A & Christie, M & Stewart, M"
+43,GEOL517,Data Science for the Geosciences,73120,Online,1,ARRANGED,n.a.,n.a.,"Klees, A"
+44,GEOL517,Data Science for the Geosciences,73125,Online Lab,OB1,02:00PM - 03:20PM,T,n.a.,"Klees, A"
+45,GEOL517,Data Science for the Geosciences,73127,Online Lab,OB2,07:30PM - 08:50PM,R,n.a.,"Klees, A"
+46,GEOL552,Geodynamics,59998,Lecture,AL1,02:00PM - 03:20PM,TR,2020A Natural History Building,"Liu, L"
+47,GEOL572,Hydrogeology with Python,70949,Online,A,ARRANGED,n.a.,n.a.,"Abrams, D"
+48,GEOL573,River Morphodynamics,58732,Lecture-Discussion,G,06:00PM - 08:50PM,TR,1311 Newmark Civil Engineering Bldg,"Parker, G"
+49,GEOL591,Current Research in Geoscience,33554,Lecture-Discussion,A,12:00PM - 12:50PM,W,1024 Chemistry Annex,"Margason, A & Sanford, R"
+50,GEOL593,Advanced Studies in Geology,10267,Independent Study,,ARRANGED,n.a.,n.a.,
+51,GEOL599,Thesis Research,10271,Independent Study,,ARRANGED,n.a.,n.a.,

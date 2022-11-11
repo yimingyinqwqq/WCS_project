@@ -1,0 +1,34 @@
+.Container_about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 30px;
+    height: 800px;
+    position: relative;
+    z-index: 1;
+}
+
+.Content_about {
+    z-index: 3;
+    max-width: 1200px;
+    position: sticky;
+    padding: 100px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.H1_about {
+    margin-top: 4rem;
+    color: rgb(0, 0, 0);
+    font-size: 48px;
+    text-align: center;
+}
+
+.P_about {
+    margin-top: 30px;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    text-align: center;
+    max-width: 600px;
+}

@@ -1,0 +1,63 @@
+,Course,Name,CRN,Type,Section,Time,Day,Location,Instructor
+0,SE101,Engineering Graphics & Design,66880,Laboratory,ABA,12:00PM - 01:50PM,W,406B8 Engineering Hall,
+1,SE101,Engineering Graphics & Design,66882,Laboratory,ABB,12:00PM - 01:50PM,W,406B8 Engineering Hall,
+2,SE101,Engineering Graphics & Design,66883,Laboratory,ABC,02:00PM - 03:50PM,W,406B1 Engineering Hall,
+3,SE101,Engineering Graphics & Design,66884,Laboratory,ABD,02:00PM - 03:50PM,W,406B1 Engineering Hall,
+4,SE101,Engineering Graphics & Design,66885,Laboratory,ABE,08:00AM - 09:50AM,R,406B8 Engineering Hall,
+5,SE101,Engineering Graphics & Design,66887,Laboratory,ABF,08:00AM - 09:50AM,R,406B8 Engineering Hall,
+6,SE101,Engineering Graphics & Design,66879,Lecture,AL,10:00AM - 10:50AM,MW,3031 Campus Instructional Facility,"Goldstein, M"
+7,SE101,Engineering Graphics & Design,66889,Laboratory,BBA,02:00PM - 03:50PM,R,316 Transportation Building,
+8,SE101,Engineering Graphics & Design,66890,Laboratory,BBB,02:00PM - 03:50PM,R,316 Transportation Building,
+9,SE101,Engineering Graphics & Design,66891,Laboratory,BBC,04:00PM - 05:50PM,R,316 Transportation Building,
+10,SE101,Engineering Graphics & Design,66892,Laboratory,BBD,04:00PM - 05:50PM,R,316 Transportation Building,
+11,SE101,Engineering Graphics & Design,66897,Laboratory,BBE,10:00AM - 11:50AM,F,316 Transportation Building,
+12,SE101,Engineering Graphics & Design,66900,Laboratory,BBF,10:00AM - 11:50AM,F,316 Transportation Building,
+13,SE101,Engineering Graphics & Design,70988,Packaged Section,BBG,12:00PM - 01:50PM,R,316 Transportation Building,
+14,SE101,Engineering Graphics & Design,70992,Packaged Section,BBH,12:00PM - 01:50PM,R,316 Transportation Building,
+15,SE101,Engineering Graphics & Design,66888,Lecture,BL,11:00AM - 11:50AM,TR,3031 Campus Instructional Facility,"Goldstein, M"
+16,SE199,Undergraduate Open Seminar,66911,Independent Study,,ARRANGED,n.a.,n.a.,
+17,SE261,Business Side of Engineering,69581,Lecture-Discussion,G,02:00PM - 02:50PM,TR,114 Transportation Building,"Titone, T"
+18,SE261,Business Side of Engineering,66912,Lecture-Discussion,H,02:00PM - 02:50PM,TR,114 Transportation Building,"Titone, T"
+19,SE290,ISE Undergraduate Seminar,66935,Lecture-Discussion,Q,11:00AM - 11:50AM,R,112 Transportation Building,"Murphy, J"
+20,SE297,Independent Study,66913,Independent Study,,ARRANGED,n.a.,n.a.,
+21,SE310,Design of Structures and Mechanisms,70660,Lecture-Discussion,A,11:00AM - 11:50AM,MWF,101 Transportation Building,"Li, Y"
+22,SE311,Engineering Design Analysis,66927,Lecture-Discussion,D,02:00PM - 02:50PM,MWF,218 Ceramics Building,"Reis, H"
+23,SE312,Instrumentation and Test Lab,66929,Laboratory,AB1,10:00AM - 11:50AM,T,200 Talbot Laboratory,"Reis, H"
+24,SE312,Instrumentation and Test Lab,70940,Laboratory,AB2,06:00PM - 07:50PM,T,200 Talbot Laboratory,"Reis, H"
+25,SE312,Instrumentation and Test Lab,66931,Laboratory,AB3,10:00AM - 11:50AM,R,200 Talbot Laboratory,"Reis, H"
+26,SE312,Instrumentation and Test Lab,66932,Laboratory,AB4,04:00PM - 05:50PM,R,200 Talbot Laboratory,"Reis, H"
+27,SE312,Instrumentation and Test Lab,66933,Laboratory,AB5,06:00PM - 07:50PM,R,200 Talbot Laboratory,"Reis, H"
+28,SE312,Instrumentation and Test Lab,66928,Lecture,AL,08:00AM - 08:50AM,TR,103 Transportation Building,"Reis, H"
+29,SE397,Independent Study,66936,Independent Study,,ARRANGED,n.a.,n.a.,
+30,SE400,Engineering Law,66937,Lecture-Discussion,B,04:00PM - 06:20PM,R,114 Transportation Building,"Barich, J"
+31,SE400,Engineering Law,68225,Lecture-Discussion,C,04:00PM - 06:20PM,R,114 Transportation Building,"Barich, J"
+32,SE400,Engineering Law,69438,Online,ONL,ARRANGED,n.a.,n.a.,"Barich, J"
+33,SE411,Reliability Engineering,66939,Lecture,G,02:00PM - 03:20PM,TR,203 Transportation Building,"Wang, P"
+34,SE411,Reliability Engineering,66938,Lecture,U,02:00PM - 03:20PM,TR,203 Transportation Building,"Wang, P"
+35,SE413,Engineering Design Optimization,66940,Lecture-Discussion,R,03:30PM - 04:50PM,TR,106B8 Engineering Hall,"Allison, J"
+36,SE413,Engineering Design Optimization,73602,Lecture-Discussion,S,03:30PM - 04:50PM,TR,106B8 Engineering Hall,"Allison, J"
+37,SE422,Robot Dynamics and Control,66972,Laboratory,AB1,12:00PM - 02:50PM,F,3071 Electrical & Computer Eng Bldg,"Block, D"
+38,SE422,Robot Dynamics and Control,66973,Laboratory,AB2,11:00AM - 01:50PM,W,3071 Electrical & Computer Eng Bldg,"Block, D"
+39,SE422,Robot Dynamics and Control,66974,Laboratory,AB3,09:00AM - 11:50AM,F,3071 Electrical & Computer Eng Bldg,"Block, D"
+40,SE422,Robot Dynamics and Control,66971,Lecture,AL,09:30AM - 10:50AM,TR,144 Loomis Laboratory,"Almeida de Souza Ramos, J"
+41,SE423,Mechatronics,66977,Laboratory,AB1,03:00PM - 05:50PM,W,302 Transportation Building,
+42,SE423,Mechatronics,66978,Laboratory,AB2,02:00PM - 04:50PM,R,Location Pending,
+43,SE423,Mechatronics,66979,Laboratory,AB3,09:00AM - 11:50AM,R,302 Transportation Building,
+44,SE423,Mechatronics,66976,Lecture,AL1,09:00AM - 09:50AM,MW,101 Transportation Building,"Block, D"
+45,SE423,Mechatronics,67642,Lecture,AL2,09:00AM - 09:50AM,MW,101 Transportation Building,"Block, D"
+46,SE424,State Space Design for Control,66980,Lecture-Discussion,R,01:00PM - 01:50PM,MWF,103 Transportation Building,"Beck, C"
+47,SE494,Senior Engineering Project I,66981,Laboratory-Discussion,M1,09:00AM - 11:50AM,TR,103 Transportation Building,"Titone, T"
+48,SE494,Senior Engineering Project I,66982,Laboratory-Discussion,M2,09:00AM - 11:50AM,TR,103 Transportation Building,"Titone, T"
+49,SE494,Senior Engineering Project I,66983,Laboratory-Discussion,M3,09:00AM - 11:50AM,TR,114 Transportation Building,"Titone, T"
+50,SE494,Senior Engineering Project I,66984,Laboratory-Discussion,M4,09:00AM - 11:50AM,TR,114 Transportation Building,"Titone, T"
+51,SE495,Senior Engineering Project II,66985,Seminar,M,ARRANGED,n.a.,Location Pending,"Titone, T"
+52,SE497,Independent Study,66986,Independent Study,,ARRANGED,n.a.,n.a.,
+53,SE498,Special Topics,73163,Lecture,DP,02:00PM - 03:20PM,TR,101 Transportation Building,"Shamma, J"
+54,SE498,Special Topics,73693,Lecture,DS,02:00PM - 03:20PM,TR,101 Transportation Building,"Shamma, J"
+55,SE520,Analysis of Nonlinear Systems,67986,Discussion/ Recitation,R,11:00AM - 12:20PM,TR,2015 Electrical & Computer Eng Bldg,"Dullerud, G"
+56,SE525,Control of Complex Systems,70383,Lecture-Discussion,A,08:00AM - 10:50AM,T,206 Transportation Building,"Stipanovic, D"
+57,SE590,Seminar,66987,Online Lecture,Z,10:00AM - 10:50AM,F,n.a.,"Etesami, S & Redman, L"
+58,SE594,Project Design,66988,Independent Study,,ARRANGED,n.a.,n.a.,
+59,SE597,Independent Study,66989,Independent Study,,ARRANGED,n.a.,n.a.,
+60,SE598,Special Topics,73649,Lecture-Discussion,JA,01:00PM - 02:50PM,MW,2078 Natural History Building,"Allison, J"
+61,SE599,Thesis Research,66990,Independent Study,,ARRANGED,n.a.,n.a.,
