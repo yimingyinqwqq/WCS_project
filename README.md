@@ -1,5 +1,6 @@
 # web-server
+This is a group project for dev-ada event. This builds a website for people in Champaign to find their coursemates.
 
-Front-end uses React and CSS, to run it use "npm i start", and the connection is for localhost
+Frontend uses React and CSS, to run it use "npm i start", and the connection is for localhost
 
-Back-end uses Flask and SQL, run the "app.py" python code to run back-end.
+Backend uses Flask and SQLite3, run the "app.py" python code for backend.
